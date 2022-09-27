@@ -7,6 +7,10 @@ afile = './muestras_voz/sentence.wav';
 ainfo = audioinfo(afile);
 
 fs = ainfo.SampleRate;
+bits = ainfo.BitsPerSample;
+
+disp("Frecuencia de muestreo: " + fs);
+disp("Bits por muestra: " + bits);
 
 [x] = audioread(afile);
 x = x / max(abs(x));

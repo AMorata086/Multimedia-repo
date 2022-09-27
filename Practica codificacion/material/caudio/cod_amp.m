@@ -1,7 +1,7 @@
 clear variables;
 close all;
 
-nb = 10;
+nb = 9;
 
 [x, fs] = audioread('./muestras_audio/bassoon.wav', 'native');
 
