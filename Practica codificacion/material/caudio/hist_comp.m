@@ -1,7 +1,7 @@
 clear variables;
 close all;
 
-[x, fs] = audioread('./muestras_audio/bassoon.wav');
+[x, fs] = audioread('./muestras_audio/wng.wav');
 N = length(x);
 
 xmin = min(x);

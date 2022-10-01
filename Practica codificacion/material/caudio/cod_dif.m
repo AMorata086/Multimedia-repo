@@ -22,4 +22,6 @@ for i = 2:N
 end
 
 player = audioplayer(xrec, fs);
+msevar = mse(xrec, x);
+disp(msevar);
 player.play();
