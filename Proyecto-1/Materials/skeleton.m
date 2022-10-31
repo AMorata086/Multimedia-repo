@@ -25,33 +25,33 @@ disp('Extracting visual features...')
 for i = 1:length(Xtrain)
     
     % Select current image
-    I = .. ;
-    
+    I = Xtrain{i, 1};
+
     %%% Feature 1: Dominant Colours
     % Convert I to HSV image
-    HSV = .. ;
+    HSV = rgb2hsv(I);
     % Select Hue component
-    H = .. ;
+    H = HSV(:,:,1);
     % Obtain the variability in colour (entropy)
-    colour_entropy = .. ;
+    colour_entropy = entropy(I);
     % Save feature
     features(i,1) = colour_entropy ;
     
     %%% Feature 2: Brightness
     % Extract the Value channel from HSV image
-    V = .. ;
+    V = HSV(:,:,3);
     % Obtain the mean value of the Value channel
-    brightness = .. ;
+    brightness = mean(V(i));
     % Save feature
     features(i,2) = brightness ;
     
     %%% Feature 3: Edges
     % Convert I to gray-scale image
-    Ig = .. ;
+    Ig = rgb2gray(I);
     % Obtain edge image using the Sobel filter
-    BW = .. ;
+    BW = edge(Ig);
     % Get the amount of edges in the BW image
-    edge_quantity = .. ;
+    edge_quantity = sum(BW(:)==1); % edges will be represented by a 1 in BW
     % Save feature
     features(i,3) = edge_quantity ;    
   
@@ -62,21 +62,21 @@ disp('Extracting textual features...')
 for i = 1:length(Xtrain)
     
     % Select current text
-    T = .. ;
+    T = Xtrain{i, 2};
     % Tokenize document (separate into words)
     words = obtain_word_array(T);
     
     %%% Feature 4: Number of words
     % Obtain the number of words (tokens)
-    num_words = .. ;
+    num_words = length(words);
     % Save feature
     features(i,4) = num_words ;  
     
     %%% Feature 5: Length of words
     % Obtain the length of each word in the description
-    word_lengths = .. ;
+    word_lengths = arrayfun(@(x) strlength(x), words);
     % Obtain the mean length of the words in the description
-    mean_word_length = .. ;
+    mean_word_length = mean(word_lengths);
     % Save feature
     features(i,5) = mean_word_length; 
 
@@ -86,11 +86,11 @@ disp('Feature Extraction complete!')
 %% Normalization Stage
 disp('Normalization Stage in progress...')
 % Obtain the mean of each feature
-feat_mean = .. ;
+feat_mean = mean(features);
 % Obtain the standard deviation of each feature
-feat_std  = .. ;
+feat_std  = std(features);
 % Normalize the extracted features
-features_n = .. ;
+features_n = (features - feat_mean) ./ feat_std;
 
 % Check if normalization was correctly implemented (VERY IMPORTANT)
 % If normalization was correctly implemented, running the line below should
@@ -104,8 +104,8 @@ check_normalization(features_n);
 %   -3: Edges
 %   -4: Word number
 %   -5: Word length
-feat_a = .. ;
-feat_b = .. ;
+feat_a = 1;
+feat_b = 3;
 % Plot feature values in scatter diagram
 figure()
 visualize_features(features_n, Ytrain, feat_a, feat_b)
@@ -129,13 +129,32 @@ features_test = zeros(length(Xtest),5);
 
 %% Test sample processing
 for i = 1:length(Xtest)
- 
-    
-    features_test(i,1) = .. ;
-    features_test(i,2) = .. ;
-    features_test(i,3) = .. ;
-    features_test(i,4) = .. ;  
-    features_test(i,5) = .. ; 
+    I_test = Xtest{i, 1};
+    %%% Feature 1: Dominant Colours
+    HSV_test = rgb2hsv(I_test);
+    H_test = HSV_test(:,:,1);
+    colour_entropy_test = entropy(I_test);
+    %%% Feature 2: Brightness
+    V_test = HSV_test(:,:,3);
+    brightness_test = mean(V_test(i));
+    %%% Feature 3: Edges
+    Ig_test = rgb2gray(I_test);
+    BW_test = edge(Ig_test);
+    edge_quantity_test = sum(BW_test(:)==1);
+    T_test = Xtest{i, 2};
+    words_test = obtain_word_array(T_test);
+    %%% Feature 4: Number of words
+    num_words_test = length(words_test); 
+    %%% Feature 5: Length of words
+    word_lengths_test = arrayfun(@(x) strlength(x), words_test);
+    mean_word_length_test = mean(word_lengths_test);
+    features(i,5) = mean_word_length_test; 
+
+    features_test(i,1) = colour_entropy_test;
+    features_test(i,2) = brightness_test;
+    features_test(i,3) = edge_quantity_test;
+    features_test(i,4) = num_words_test;  
+    features_test(i,5) = mean_word_length_test; 
     
 end
 
@@ -143,7 +162,7 @@ end
 %%% Perform Normalization
 % Note that you do not need to recompute the mean and standard deviation
 % again. You need to use the values from training
-features_test_n = .. ;
+features_test_n = (features_test - feat_mean)./feat_std;
 
 %% Test the models against the new extracted features
 % Test visual  model
@@ -160,8 +179,21 @@ features_test_n = .. ;
 disp('Performance Assessment Stage in progress...')
 labels_true = Ytest';
 % Measure the performance of the developed system (Detection & False Alarm)
-P_D  = .. ;
-P_FA = .. ;
+correct_positives = 0;
+false_positives = 0;
+
+for i = 1:length(labels_true)
+    if labels_pred(i) == 1
+        if labels_true(i) == 1
+            correct_positives = correct_positives + 1;
+        else
+            false_positives = false_positives + 1;
+        end
+    end
+end
+
+P_D  = correct_positives ./ sum(labels_pred(:) == 1);
+P_FA = false_positives ./ sum(labels_pred(:) == 0);
 
 % Measure the performance of the developed system (AUC)
 % (NO NEED TO CODE ANYTHING HERE)
