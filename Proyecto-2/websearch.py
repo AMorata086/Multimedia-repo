@@ -27,12 +27,13 @@ for i in excelL:
         imdb = BeautifulSoup(r.text, 'html.parser')
         req = requests.get(i[0]+'/synopsis?ref_=tt_stry_pl')
         sinopsis_url = BeautifulSoup(req.text, 'html.parser')
-    except:
+    except Exception as err:
         if counter_err == 10:
             json.dump(dictList, backup_fd, ensure_ascii=False, indent=4)
             backup_fd.close()
             break
         counter_err += 1
+        print(err)
         continue
     urls = imdb.select('a[href]')
     urls_list = [urls.string for urls in urls]
