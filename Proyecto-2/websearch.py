@@ -3,13 +3,16 @@ import json
 from bs4 import BeautifulSoup
 import pandas as pd
 
-counter = 0
+counter_err = 0
 
 usecolsA = [1]
 required_df = pd.read_excel('imdbtitles.xlsx', usecols=usecolsA, skiprows=1)
 excelL = required_df.values.tolist()
 output = open('movies.json', 'a', encoding='utf8')
+output.write('[')
+backup_fd = open('backup_movies.json', 'a', encoding='utf8')
 dictList = []
+
 # print(len(required_df))
 # print(len(excelL))
 for i in excelL:
@@ -17,12 +20,20 @@ for i in excelL:
     print(i[0])
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102'}
-    r = requests.get(i[0], headers=headers)
-    r.encoding
-    #r = requests.get(i[0]+'/reference')
-    imdb = BeautifulSoup(r.text, 'html.parser')
-    req = requests.get(i[0]+'/synopsis?ref_=tt_stry_pl')
-    sinopsis_url = BeautifulSoup(req.text, 'html.parser')
+    try:
+        r = requests.get(i[0], headers=headers)
+        r.encoding
+        #r = requests.get(i[0]+'/reference')
+        imdb = BeautifulSoup(r.text, 'html.parser')
+        req = requests.get(i[0]+'/synopsis?ref_=tt_stry_pl')
+        sinopsis_url = BeautifulSoup(req.text, 'html.parser')
+    except:
+        if counter_err == 10:
+            json.dump(dictList, backup_fd, ensure_ascii=False, indent=4)
+            backup_fd.close()
+            break
+        counter_err += 1
+        continue
     urls = imdb.select('a[href]')
     urls_list = [urls.string for urls in urls]
     try:
@@ -59,11 +70,11 @@ for i in excelL:
         max = len(sinopsis_url.select('li.ipl-zebra-list__item'))
         sinopsis = sinopsis_url.select(
             'li.ipl-zebra-list__item')[max-1].text.strip()
-        if("It looks like we don't have a Synopsis" in sinopsis):
+        if ("It looks like we don't have a Synopsis" in sinopsis):
             sinopsis = ""
     except:
         sinopsis = ""
-    
+
     try:
         score = imdb.select('span.sc-7ab21ed2-1')[0].text.strip()
     except:
@@ -89,7 +100,11 @@ for i in excelL:
     dictMovie["score"] = score
     dictMovie["summary"] = summary
     dictMovie["sinopsis"] = sinopsis
-    
+
     dictList.append(dictMovie)
-json.dump(dictList, output, ensure_ascii=False)
-print(output)
+    json.dump(dictMovie, output, ensure_ascii=False, indent=4)
+    output.write(',')
+
+output.write(']')
+output.close()
+backup_fd.close()
