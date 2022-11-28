@@ -3,18 +3,17 @@ import json
 from bs4 import BeautifulSoup
 import pandas as pd
 
-counter_err = 0
-
 usecolsA = [1]
 required_df = pd.read_excel('imdbtitles.xlsx', usecols=usecolsA, skiprows=1)
 excelL = required_df.values.tolist()
 output = open('movies.json', 'a', encoding='utf8')
 output.write('[')
-backup_fd = open('backup_movies.json', 'a', encoding='utf8')
+backup_fd = open('backup_movies.json', 'w', encoding='utf8')
 dictList = []
 
 # print(len(required_df))
 # print(len(excelL))
+
 for i in excelL:
     dictMovie = {}
     print(i[0])
@@ -23,17 +22,12 @@ for i in excelL:
     try:
         r = requests.get(i[0], headers=headers)
         r.encoding
-        #r = requests.get(i[0]+'/reference')
+        # r = requests.get(i[0]+'/reference')
         imdb = BeautifulSoup(r.text, 'html.parser')
         req = requests.get(i[0]+'/synopsis?ref_=tt_stry_pl')
         sinopsis_url = BeautifulSoup(req.text, 'html.parser')
-    except Exception as err:
-        if counter_err == 10:
-            json.dump(dictList, backup_fd, ensure_ascii=False, indent=4)
-            backup_fd.close()
-            break
-        counter_err += 1
-        print(err)
+    except:
+        json.dump(dictList, backup_fd, ensure_ascii=False, indent=4)
         continue
     urls = imdb.select('a[href]')
     urls_list = [urls.string for urls in urls]
@@ -105,6 +99,7 @@ for i in excelL:
     dictList.append(dictMovie)
     json.dump(dictMovie, output, ensure_ascii=False, indent=4)
     output.write(',')
+
 
 output.write(']')
 output.close()
