@@ -17,9 +17,9 @@ dictList = []
 skip_count = 0
 
 for i in excelL:
-    if skip_count < 8222:
-        skip_count += 1
-        continue
+    # if skip_count < 8222:
+    #     skip_count += 1
+    #     continue
     dictMovie = {}
     print(i[0])
     headers = {
