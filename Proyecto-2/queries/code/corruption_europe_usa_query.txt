@@ -1,0 +1,20 @@
+GET movies/_search
+{
+  "size":50,
+  "query":{
+    "bool": {
+      "must":{
+        "multi_match": {
+          "query": "US United States of America USA Europe Russia Ukraine France Spain Sweden Norway Germany Poland Finland Italy Britain UK Romania Portugal Belgium",
+          "fields": ["summary", "sinopsis"]
+        }
+      },
+      "filter":{
+        "multi_match":{
+          "query": "politic politicians corruption corrupt corrupted",
+          "fields": ["summary", "sinopsis"]
+        }
+      }
+    }
+  }
+}
