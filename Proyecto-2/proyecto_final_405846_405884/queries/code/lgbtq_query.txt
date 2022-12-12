@@ -1,0 +1,19 @@
+GET movies/_search
+{
+  "size": 50,
+  "query": {
+    "multi_match": {
+      "query": "lgbt lesbian gay bisexual transexual queer",
+      "fields": ["summary", "sinopsis"]
+    }
+  },
+  
+  "aggs": {
+    "lgbt_year": {
+      "terms": {
+        "field": "year",
+        "size":50
+      }
+    }
+  }
+}

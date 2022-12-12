@@ -1,0 +1,17 @@
+GET movies/_search
+{
+  "size": 0,
+  "aggs": {
+    "terms_director": {
+      "terms": {
+        "field": "director",
+        "size": 50
+      }
+    }
+  },
+  "query":{
+    "match":{
+      "genres":"Action"
+    }
+  }
+}

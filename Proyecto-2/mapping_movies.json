@@ -1,0 +1,38 @@
+{
+    "movies": {
+        "mappings": {
+            "_meta": {
+                "created_by": "file-data-visualizer"
+            },
+            "properties": {
+                "actors": {
+                    "type": "text"
+                },
+                "director": {
+                    "type": "keyword"
+                },
+                "genres": {
+                    "type": "keyword"
+                },
+                "guionist": {
+                    "type": "keyword"
+                },
+                "score": {
+                    "type": "keyword"
+                },
+                "sinopsis": {
+                    "type": "text"
+                },
+                "summary": {
+                    "type": "text"
+                },
+                "title": {
+                    "type": "text"
+                },
+                "year": {
+                    "type": "long"
+                }
+            }
+        }
+    }
+}

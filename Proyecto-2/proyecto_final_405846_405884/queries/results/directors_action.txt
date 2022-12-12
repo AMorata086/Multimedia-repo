@@ -1,0 +1,226 @@
+{
+  "took" : 0,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 3894,
+      "relation" : "eq"
+    },
+    "max_score" : null,
+    "hits" : [ ]
+  },
+  "aggregations" : {
+    "terms_director" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 3371,
+      "buckets" : [
+        {
+          "key" : "Albert Pyun",
+          "doc_count" : 19
+        },
+        {
+          "key" : "Sammo Kam-Bo Hung",
+          "doc_count" : 17
+        },
+        {
+          "key" : "Chia-Liang Liu",
+          "doc_count" : 16
+        },
+        {
+          "key" : "John Woo",
+          "doc_count" : 16
+        },
+        {
+          "key" : "Cheh Chang",
+          "doc_count" : 15
+        },
+        {
+          "key" : "Ishirô Honda",
+          "doc_count" : 14
+        },
+        {
+          "key" : "J. Lee Thompson",
+          "doc_count" : 13
+        },
+        {
+          "key" : "Kenji Misumi",
+          "doc_count" : 13
+        },
+        {
+          "key" : "Steven Spielberg",
+          "doc_count" : 13
+        },
+        {
+          "key" : "Tony Scott",
+          "doc_count" : 13
+        },
+        {
+          "key" : "Enzo G. Castellari",
+          "doc_count" : 12
+        },
+        {
+          "key" : "Hark Tsui",
+          "doc_count" : 12
+        },
+        {
+          "key" : "Takashi Miike",
+          "doc_count" : 12
+        },
+        {
+          "key" : "Walter Hill",
+          "doc_count" : 12
+        },
+        {
+          "key" : "Clint Eastwood",
+          "doc_count" : 11
+        },
+        {
+          "key" : "Jing Wong",
+          "doc_count" : 11
+        },
+        {
+          "key" : "John Frankenheimer",
+          "doc_count" : 11
+        },
+        {
+          "key" : "Seijun Suzuki",
+          "doc_count" : 11
+        },
+        {
+          "key" : "Sidney J. Furie",
+          "doc_count" : 11
+        },
+        {
+          "key" : "Jackie Chan",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Johnnie To",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Kinji Fukasaku",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Peter Hyams",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Richard Donner",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Richard Fleischer",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Robert Rodriguez",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Roland Emmerich",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Russell Mulcahy",
+          "doc_count" : 10
+        },
+        {
+          "key" : "Andrew V. McLaglen",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Corey Yuen",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Mark L. Lester",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Renny Harlin",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Richard Thorpe",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Siu-Tung Ching",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Umberto Lenzi",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Uwe Boll",
+          "doc_count" : 9
+        },
+        {
+          "key" : "Andrew Davis",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Jim Wynorski",
+          "doc_count" : 8
+        },
+        {
+          "key" : "John Badham",
+          "doc_count" : 8
+        },
+        {
+          "key" : "John McTiernan",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Rajkumar Santoshi",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Ram Gopal Varma",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Ridley Scott",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Rob Cohen",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Stelvio Massi",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Wei Lo",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Woo-Ping Yuen",
+          "doc_count" : 8
+        },
+        {
+          "key" : "Antoine Fuqua",
+          "doc_count" : 7
+        },
+        {
+          "key" : "Brett Ratner",
+          "doc_count" : 7
+        },
+        {
+          "key" : "Christian Duguay",
+          "doc_count" : 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1989 @@
+{
+  "took" : 13,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2765,
+      "relation" : "eq"
+    },
+    "max_score" : 13.852027,
+    "hits" : [
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "d-W68YQBlDlURf2gx3Vf",
+        "_score" : 13.852027,
+        "_source" : {
+          "title" : "Zone troopers",
+          "year" : "1985",
+          "genres" : [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "actors" : [
+            "Tim Thomerson",
+            "Timothy Van Patten",
+            "Art LaFleur",
+            "Biff Manard",
+            "William Paulson",
+            "Peter Boom",
+            "Max Turilli",
+            "Eugene Brell",
+            "John Leamer",
+            "Bruce McGuire",
+            "Alviero Martin",
+            "Mike Manderville",
+            "Achille Brugnini",
+            "Ole Jorgensen",
+            "Peter Hintz",
+            "Joshua McDonald",
+            "Anita Zagaria",
+            "Massimo Ciprari"
+          ],
+          "director" : "Danny Bilson",
+          "guionist" : "Danny Bilson",
+          "score" : "5.2",
+          "summary" : "In Italy, during World War II some American soldiers find an alien UFO.",
+          "sinopsis" : """Somewhere in Italy 1944Joey (Timothy Van Patten) a solider for the US arm sits reading a pulp science fiction magazine on a bridge at the edge of a small Italian village. Mittens (Art LaFleur) another solider pesters him for a magazine with blondes from outer space on the cover. Joey tells him he swapped the magazine for a packet of cigarettes to a soldier is G Company.Elsewhere in the village Sargent Stone (Tim Thomerson) checks on his medic, Phillips (Bruce McGuire) whos previously injured his ankle. In the middle of the discussion the radioman, Ferguson (Eugene Brell) reports he cant raise HQ all he is getting is strange electronic sounds through the radio. Sarge checks his compass and notices it is spinning erratically, he checks Ferguson's compass which is equally uselessUnseen by the US soldiers a squad of Germans troops form up and advance on the town in preparation for an attack.Back at the bridge Joey and Mittens have their photograph taken by a soldier who introduces himself as Charlie Dolan (Biff Manard) Joey recognizes the name as a famous writer, and wants to know if Dolan is going to do a story on his unit.Sarge checks in with the Lieutenant (John Leamer) and reports the radio being out, and so far nothing has been heard of the other squads who should have arrived at the town by now. The Lieutenant dismisses Stones concern, and is sure the relief troops are approaching over a nearby hill. He goes to investigate, and is killed by the approaching Germans.The rest of the American troops take cover as the Germans continue to advance. Seeing the enemy strength Sarge orders his men to pull out of the village and make for a nearby wood. During the retreat both Ferguson and Phillips are killed. Sarge remains behind and sets up an ambush that stops the German advance.Regrouping in the woods, only four of the original squad including Sarge has survived the attack. Mittens is angry at Sarge. If hed taken a battlefield commission, the new Lieutenant would not have been in charge and Sarge would not have allowed the ambush to happen.As they move through the woods it becomes increasingly obvious they are lost. Sarge tries his compass a number of times without successUnseen by the soldiers a creature with a three fingered hand watches them from a concealed position.A german mortar position spots the Americans and fires. The round hits a tree which begins to fall on the men taking shelter. The unseen creature launches a device that disintegrates the tree debris instantly. The American move out of range of the Germans, and finally take shelter in an old abandoned farmhouse for the night. Dolan begins questioning Mittens about his relationship with Sarge. He wonders if Sarge can get them out of the trouble they are in. Dolans notices Mittens gun has the name Velma written on it. Dolan wonders if that is his wife, till Mittens admits it is a girl who beat him up in the 1st Grade.Joey is sent to take the first watch. As he circles the farmhouse he hears strange noises and the sound of someone approaching. He goes to investigate and finds a cluster of strange glowing eggs on the ground and a strange hairy creature standing over themThinking he imagined the incident, he goes back inside the farmhouse and burns his science fiction magazine. Satisfied he resumes his sentry duty. Next morning he confides in Dolans what he saw, and fears he is losing his mind. Dolan is interested in his story. Dolan is less concerned and thinks he saw some wildlife and his imagination took overMittens reports from his watch that hes seen a deer in the woods. Dolans, against Mittens best judgment is determined to try and kill it, and the pair goes out on the hunt. They find the location Mittens saw the animal and Dolens begins tracking itAt the farmhouse Sarge wakes finds Joey who tells him about the hunt. Sarge is furious and immediately goes looking for the other two menThe two men on the hunt crest a hill and find an abandoned SS camp. Dolan wants to go and investigate, but Mittens insists they go back to meet up with Sarge and Joey.Joey finds a piece of metal on the forest floor. When he picks it up he screams in pain from the intense cold coming from the metalAt the SS camp Dolans has ignored Mittens and snuck into the camp to see whats going on. He finds a series of maps and drawings of what he thinks is a new Nazi secret weapon.As Sarge and Joey are still trying to hook up with Mittens and Dolans, they stumble across the wreckage of what appears to be a downed space ship.Dolans is caught looking through the documentation and while in the process of being unarmed, Mittens sneaks in and shoots the guard. As Dolans and Mittens make good their escape more Germans arrive and capture the menThe Sarge and Joey find a way inside the wreck and begin exploring to see if there are any survivors of the crash. They can hear machinery noises coming from the lower areas of the ship and try to locate the engines. They fall through an opening and encounter the corpse of one of the creatures Joey saw the previous evening.
+Joey finds an empty chair in the chamber they have entered. Joey surmises the creature he saw the previous evening is the survivor who would occupy the empty seat. As they explore the control systems Sarge sees a group of German soldiers approaching the shipAs the Germans move through the ship, Joey finds a ventilation shaft leading to the exterior of the ship and the two men make good their escape. As they escape they hear two Germans discuss the arrest of Charlie Dolan.
+Sarge decides the best course of action is to blow up the ship, especially as the Germans have control of the wreckage. Joey is ordered to throw an hand grenade into one of the engine bays which triggers a series of explosions that kill all the Germans and destroy the remains of the shipAt the SS camp German soldiers unload a cage with what appears to be the captured pilot from the ship. The commander of the camp, Col. Manheim (Peter Boom) introduces himself to the captives and begins the process of interrogating them for any information they might have about the downed spaceship.A scientist interrupts the interrogation. The creature being held in the cage has morphed into a large pine cone shaped egg that appears to be glowing. When Manheim touches the egg, the creature erupts from its cover and attacks Manhiem.During the night, Adolph Hitler (Alviero Martin) visits the site to inspect the captured alien. He stops for a moment to examine the prisoners. Mitten realizes his hands are no longer tied and throws a punch breaking Hitler nose. After arranging the transport of the alien to Berlin he leaves.The next morning the alien is loaded on a truck for Berlin, and the two prisoners are held in the dog kennels. To their surprise Joey arrives dressed as a German and explains the escape plan to the men. Sarges plan involves also capturing the alien and see if it can be transported back to the allied lines.The plan unravels as one of the German officers realizes Joey is American, rather than waiting for dark they make their escape in broad daylight. Reaching the truck housing the alien, they are surprised to find Sarge at the wheel During the escape the truck runs off the road. As a German prepares to fire a rocket launcher at the truck the alien intercedes and sets a force field around truck making the attack ineffective. After the attack they continue on foot taking the alien with themAs night falls they take refuge in an empty family tomb. Mittens doesnt want to disrespect the dead and decides to stand guard outside, till the sound of wild animals drives him inside. As they settle in Sarge tells Dolans to come outside with him. Sarge then confronts the reporter about what he really knows.Two days ago Dolans is dropped off with their unit. Now they have a spaceship, alien, and SS units after them. Dolans pleads it is all coincidence and he is really there to write a story about Sarge. He explains to Stone that he is now a legend among the GIs its been reported at least 20 times hes been killed, but he always comes throughIn the tomb, Mittens and Joey accidentally discover the creature eat tobacco. It offers to swap a small device for cigarettes. Joey fools with the thing trying to understand its operation when a small green beam jumps from it, connects with Joeys head then creates a replica of a woman (Anita Zagaria) who immediately seduces JoeyWhile the two men are distracted by the woman, the alien grabs a gun. Rather than shoot the men he uses it to illustrate who he is and what he is doing. In the morning the alien is gone. All that is left is the remains of an egg. Joey summises the creature creates the eggs to sleep in. The four men track the creature back to the site of the crash. They encounter a second spaceship, with a different group of aliens, tey appear to be a rescues partyOne of the aliens takes on human form and speaks briefly to the aliens, only to discover the alien they have been protecting is a female. As the spacecraft is readying to leave a German tank arrives on the scene and begins shelling the spacecraft. The alien fires a small projectile at the tank destroying it instantly. Joey is killed in the attack.Joey is buried by the Americans as the aliens try to repair their ship, Dolans reports a German patrol is approaching. Sarge asks the aliens for help but they refuse. Resolved to stop the Nazis succeeding Sarge leads his squad out to try and ambush the enemy.The ambush is partially successful however the Americans are out of ammunition. Sarge offers to surrender and meets with the commander of the Germans to make the arrangements. Sarge approaches the officer and produces a hidden hand grenade that blows the German up and kills Sarge.Dolans and Mittens begin to consider retreat when a second German patrol arrives in their rear. Expecting to die the men are surprised when a ray weapon begins killing Germans. The aliens have had a change of heart and have decided to help the Americans. In a matter of minutes the Germans are defeatedThat night Dolan and Mitten say good bye to the aliens as they leave in their repaired spacecraft
+Later as Dolan and Mittens discuss their options they encounter the Sarge standing in the middle of the road, somehow he's survived the explosion and heads of to cross back to allied linesChapman_Glen@yahoo.com"""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "jOW68YQBlDlURf2gzpFJ",
+        "_score" : 13.819237,
+        "_source" : {
+          "title" : "Los juicios de Nuremberg",
+          "year" : "2000",
+          "genres" : [
+            "Drama",
+            "History",
+            "War"
+          ],
+          "actors" : [
+            "Alec Baldwin",
+            "Brian Cox",
+            "Christopher Plummer",
+            "Jill Hennessy",
+            "Christopher Heyerdahl",
+            "Roger Dunn",
+            "David McIlwraith",
+            "Christopher Shyer",
+            "Hrothgar Mathews",
+            "Herbert Knaup",
+            "Frank Moore",
+            "Frank Fontaine",
+            "Raymond Cloutier",
+            "Bill Corday",
+            "Ken Kramer",
+            "Sam Stone",
+            "Douglas O'Keeffe",
+            "Benoît Girard"
+          ],
+          "director" : "Alec Baldwin",
+          "guionist" : "Brian Cox",
+          "score" : "7.3",
+          "summary" : "The dramatized account of the war crime trials following the defeat of Nazi Germany in World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "reW68YQBlDlURf2g1bEf",
+        "_score" : 13.384086,
+        "_source" : {
+          "title" : "Flame y Citrón",
+          "year" : "2008",
+          "genres" : [
+            "Action",
+            "Drama",
+            "History"
+          ],
+          "actors" : [
+            "Thure Lindhardt",
+            "Mads Mikkelsen",
+            "Stine Stengade",
+            "Peter Mygind",
+            "Mille Lehfeldt",
+            "Christian Berkel",
+            "Hanns Zischler",
+            "Claus Riis Østergaard",
+            "Flemming Enevold",
+            "Lars Mikkelsen",
+            "Jesper Christensen",
+            "Lærke Winther",
+            "Peter Plaugborg",
+            "Martin Hestbæk",
+            "Thomas Voss",
+            "Martin Greis-Rosenthal",
+            "René Hansen",
+            "Jeppe Vig Find"
+          ],
+          "director" : "Ole Christian Madsen",
+          "guionist" : "Lars Kristian Andersen",
+          "score" : "7.2",
+          "summary" : "A drama centered on two fighters in the Holger Danske World War II resistance group.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "kuW68YQBlDlURf2gxW_C",
+        "_score" : 13.161775,
+        "_source" : {
+          "title" : "Ataque Fuerza Z",
+          "year" : "1981",
+          "genres" : [
+            "Action",
+            "Drama",
+            "History"
+          ],
+          "actors" : [
+            "John Phillip Law",
+            "Mel Gibson",
+            "Sam Neill",
+            "Chris Haywood",
+            "John Waters",
+            "Chun Ku",
+            "Sylvia Chang",
+            "O Ti",
+            "Chun-Hsiung Ko",
+            "Lung Shuan",
+            "Yuan Yi",
+            "Su Wei",
+            "Hsa Li-Wen",
+            "Val Champion",
+            "Yu Wang"
+          ],
+          "director" : "Tim Burstall",
+          "guionist" : "Roger Marshall",
+          "score" : "5.4",
+          "summary" : "A group of Australian commandos launch a secret mission against Japanese forces in World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "wOW68YQBlDlURf2gxnKV",
+        "_score" : 13.161775,
+        "_source" : {
+          "title" : "Historia de un soldado",
+          "year" : "1984",
+          "genres" : [
+            "Crime",
+            "Drama",
+            "Mystery"
+          ],
+          "actors" : [
+            "Howard E. Rollins Jr.",
+            "Adolph Caesar",
+            "Art Evans",
+            "David Alan Grier",
+            "David Harris",
+            "Dennis Lipscomb",
+            "Larry Riley",
+            "Robert Townsend",
+            "Denzel Washington",
+            "William Allen Young",
+            "Patti LaBelle",
+            "Wings Hauser",
+            "Scott Paulin",
+            "John Hancock",
+            "Trey Wilson",
+            "Patricia Brandkamp",
+            "Carl Dreher",
+            "Vaughn Reeves"
+          ],
+          "director" : "Norman Jewison",
+          "guionist" : "Charles Fuller",
+          "score" : "7.2",
+          "summary" : "An African-American officer investigates a murder in a racially charged situation in World War II.",
+          "sinopsis" : """Louisiana, 1944.In her nightclub, Big Mary's Catfish Ribs and Liquor, Big May (Patti LaBelle) is belting out a blues tune. The club is filled with black soldiers from a nearby segregated Army base. Sergeant Waters (Adolph Caesar) stumbles out of the club. He staggers down the street, past black soldiers, civilians, to the edge of town and into a wooded area. He looks up at the camera, and pleads with a hoarse, drunken cackle: 'They still...hate you! They still...hate you!' A semi-automatic handgun goes off, blowing him on to his back. Seconds later, a second round is fired.At the Army barracks, Captain Taylor (Dennis Lipscomb) has the troops searched. He doesn't want anyone going into Tynin, the nearby town, looking for rednecks. The men are convinced the Klan murdered Sergeant Waters.Captain Davenport (Howard E. Rollins, Jr.), a graduate of Howard University Law School, is called in to investigate the murder. He arrives in Tynin on an interstate bus. He is wearing aviator sunglasses and is asleep in the back, behind the white passengers. 'Hey, wake up, boy! You said Tynin, didn't ya?' says the driver. Corporal Ellis (Robert Townsend) is standing by his Army jeep, waiting for Davenport to disembark. He is shocked to see a black officer, but is also proud. He collects Davenport's bags and drives him back to base.Colonel Nivens (Trey Wilson) gives Davenport the Waters file. Nivens has doubts about Davenport's investigation. He doesn't want outsiders like the NAACP, the Negro Press, nor 'the paper-shuffling desk jockeys in Washington' involved. He instructs Davenport to complete his investigation in three days. He also expects Davenport, the first black officer the men ever saw, to be an 'example' to the colored soldiers.Captain Davenport is ushered in to see Captain Taylor, who commands the racially segregated Company. Taylor is shocked when Captain Davenport enters. Taylor inquires about Davenport's background. 'Had I known you'd be e a Negro I would have requested the immediate suspension of the investigation. These local people aren't going to charge a white man in this Parish on your say-so...Will you take off those damn sunglasses?' 'I like these,' says Davenport, 'they're like McArthur's.'Davenport is at the enlisted men's barracks. Ellis tells Davenport that Taylor had questioned two white officers who were on the road the night of the murder. Captain Davenport interviews his first soldier. Private Wilkie (Art Evans) gives a summary of the all-black Company. The soldiers were recruited from a baseball team in the Negro Leagues. As for Sergeant Waters-he was a veteran of the First World War, 'all spit and polish.' Waters had taken Wilkie's Sergeant's stripes-demoted him to Private-- because Wilkie was found drunk on duty.Davenport asks about Water's relationship with his men. Wilkie replies Waters didn't like the Southern men, except for C.J.-probably because C.J. was the best ball player on the team--and he could sing, too. 'Boy could he sing.'Flashback to C.J. playing his guitar and singing the blues at Big Mary's club. Big Mary joins him onstage, and the soldiers are enjoying C.J.'s tune, 'Low Down Dirty Shame.' After the song Waters and Wilkie approach C.J. Memphis (Larry Riley). Waters asks him if he's from Mississippi. 'Yessuh.' Waters tells C.J. he reminds him of Blues singers from Mississippi, and of a club in France during the First World War-the 'Café Napoleon.'Present day, Davenport's interview with Wilkie: The Sarge was a 'good' man, Wilkie says. Good to his men, wrote home to his wife every day. But, his attitude could change in an instant. 'Two people, sir. Mr. Warm and Mr. Cold.' Wilkie asks Davenport if it's true that when Sergeant Waters was found his stripes and insignia were still on his uniform. Yes. 'Something's wrong, ain't it, sir? 'The Klan boys can't stand to see us in these uniforms. They usually take the stripes and stuff off before they lynch us.'Private First Class Peterson (Denzel Washington) enters. He called Sergeant Waters 'Stone Ass'-no offense.Flashback: A baseball game between the soldiers and a white team. C. J. excels on defense-catching a long fly ball-and on offense, hitting a monstrous home run. Captain Taylor is ecstatic over the performance of his black players, to the chagrin of his fellow white officers. They win the game, then go to the mess hall to celebrate. The soldiers are laughing and drinking; C.J. sings another of his songs. Captain Waters enters and tells the men to 'knock it off. We don't need no more of that guitar-picking-sittin'-around-the-shack music today, C.J.' They've got a work detail, painting the lobby of the officer's club. Private Smalls (David Harris) asks: Why can't the officers paint their own damn club? Waters: The reason for issuing an order is none of your business. Waters is up in Private Small's face: When I give you an order, I want it done! As Waters leaves, Peterson asks: What kind of colored man are you? 'I'm a soldier, Peterson. The kind of colored man that don't like lazy, shiftless Negroes.' Peterson replies 'You don't have to call us names.' Waters: the Germans call you names too, you going to complain to Hitler? C.J. says they couldn't do too much to the Nazi's with paintbrushes. 'Are you mockin' me, C.J.? Whatever an ignorant low-class Geechee like you has to say ain't worth payin' attention to. Is it!' 'I reckon not, Sarge,' says C.J. Peterson: You're a creep, Waters! Waters: If it wasn't for you Southern niggers, white folks wouldn't think we was all fools. Peterson: Where are you from, England? The men nervously retreat from Peterson. 'Looks like we got us a wise-ass Alabama boy here.' Waters gets up in Peterson's face and pushes him. Peterson pushes back. 'Get your...hands off me!' Waters dares Peterson to hit him. Just then Captain Taylor enters and congratulates the team on their victory. Only seven more games and they'll be the first colored team in Army history to play the Yankees. He gives them the rest of the day off. After Taylor leaves, Waters promises Peterson he'll teach him a lesson, and demands Peterson fight him. Peterson accepts and Waters leaves. The men warn Peterson Waters will fight dirty. Outside the barracks, the two men fight. Peterson is winning. Down on his face Waters scoops up a handful of dirt and throws it in Peterson's eyes. Peterson is unable to see. Waters delivers a flurry of vicious punches and knocks him out.Present day, the interview with Peterson: Peterson says he never reported the incident. Waters left him alone after that so he 'just played ball.' 'I appreciate your honesty, Peterson,' says Davenport. 'Did you see Waters the night he was killed?' 'Uh, no sir. Smalls and I had guard duty.'Night. Davenport is typing his report. Taylor visits. He is submitting a request to have Davenport's investigation terminated. Taylor is emphatic that Davenport will not be able to get the truth on Waters' murder. Davenport asks Taylor why the file he received from Nivens did not include any mention of the two white officers who had an encounter with Waters the night he was murdered. Colonel Nivens had ordered it not included, Taylor says. Waters was killed with two .45 caliber slugs, Army issue. If the black soldiers had found out, there would have been a slaughter. Lt. Byrd and Captain Wilcox were the officers. 'Tell me what they told you,' says Davenport. 'Look, hotshot. They're not gonna let you charge those two men.'Flashback: The night Waters was murdered. Byrd and Wilcox are in their vehicle, in a wooded area approaching a bridge. They come across a drunken Sergeant Waters. 'I'll be damned. If it ain't the white boys,' says Waters. Though Waters is obviously drunk, Byrd is incensed that he won't salute. Wilcox implores him to let it go. Byrd refuses, insists Waters come to attention. Waters won't do 'nothin' white folks say to him, and starts crying. 'I've even killed for you.' Byrd knocks him to the ground and starts kicking him repeatedly. 'White men are killing for you, nigger. Good men are dyin' for you'. He cocks his pistol.Present day, Taylor and Davenport: Taylor: they claimed they left Waters at 23:10 and were back at the barracks by 23:30 and neither left until the following morning. Davenport replies: That's just white officers protecting their own. I'm arresting both of them, and you can consider yourself under arrest pending my charges against you. Captain Taylor: Colonel Nivens is part of their alibi. Nivens and other white officers were playing pool with Byrd and Wilcox until three in the morning.Davenport visits Colonel Nivens and requests authority to arrest Byrd and Wilcox. Nivens refuses, but does give Davenport permission to question them, provided a white officer is present.Davenport interviews another soldier, Private Henson (William Allen Young). Henson didn't like Waters on account of what he did to C.J. In fact he doesn't like officers at all, and doesn't want to talk to any officers, black or white. Davenport threatens to put him in the stockades unless he talks. Henson: There was a shooting. It happened last year at the end of the baseball season.Flashback: Waters barges into a darkened barracks with Wilkie, while the soldiers are sleeping. A colored soldier shot a white M.P., and he was chased down to the Army base. 'We got us a vicious, low down murdering piece of black trash in here somewhere-and a few people who helped him.' Waters has the barracks searched. Wilkie 'finds' a pistol under C.J.'s bunk. The men vouch for C.J.'s innocence. Private Henson says he saw someone sneaking into their barracks. Corporal Cobb (David Alan Grier) says C.J. was asleep before he, Cobb, went to bed. Waters is undeterred, and shows open contempt for 'C. J. Memphis' - 'cotton-picker', bowin', scrapin' in white folks faces. 'This man undermines us. That "yasser-boss" is hidin' somethin,' and jabs C.J. in the chest. With one punch, C.J. knocks Waters to the ground. Waters has C.J. arrested and taken away. Peterson gets dressed. He's seen the likes of Waters before: White man gives him a job as a servant, when the boss ain't lookin' ...he acts like the new boss...he can't look good unless he's standin' on you. Peterson leaves to tell the M.P.s that C.J. was in the barracks all night.Present day, the Davenport and Henson interview continues. Davenport asks Henson if Wilkie was the only one out of his bunk the night the white M.P. was killed. Henson: I guess...but I was a little juiced that night.Davenport questions Corporal Cobb about his best friend, C.J. Cobb tells Davenport C.J. was a 'country boy' and that jail cell started closing in on him in solitary.Flashback: Sergeant Waters visits C.J. in solitary. The charges are changed-he's now charged with striking a superior officer. They're talking about giving him five years. 'Why you doin' this to me, suh?' 'Don't feel too bad, C.J.. It has to be this way....The black race can't afford you no more...there used to be a time when we'd see someone like you singin', clowinin', yasser-bossin'..and we wouldn't do anything. Folks liked that. You were good. Homey kinda nigger. When they needed someone to mistreat...they paraded you. Reminded them of the good old days. Not no more. The day of the Geechee is gone, boy, and you're going with him. We can't let nobody go on beleivin' we're all fools like you. Waited a long time for you, boy, but I got ya.' Waters says he's already put three Geechees in jail, 'now, I've got you...one less fool for the race to be ashamed of.' Waters leaves. Tears stream quietly down C.J.'s face.Present day, Davenport and Cobb: Two days after speaking with Waters, C.J. was found hanging from the bars of his cell. The players protested C.J.'s suicide by throwing the last game of the season. After that the baseball team was broken up. The Sergeant 'started actin' funny, was drunk all the time.' Cobb gives Davenport the time he got in the night Waters was killed. And Peterson and Smalls? They were the last ones in--they had guard duty.Davenport interviews Lieutenant Byrd (Wings Hauser) and Captain Wilcox (Scott Paulin), the white officers who encountered Waters the night of his murder. Captain Taylor is present. Davenport: When did you last see Sergeant Waters? Lieutenant Byrd says it was the night he was killed-'I should have done it myself, the way he spoke to Wilcox and me...The goddamned nigger was disrespectful, no way a colored soldier speaks to a white officer like that.' Davenport challenges Byrd, 'You beat him up...and you shot him.' 'You get out of my face, boy, 'fore I kill you.' 'Like you killed Waters.' 'No!' Captain Wilcox says their weapons were turned in and cleared ballistics. Byrd adds: They were short of .45 caliber ammo. They were for M.P.s and special duty people only. 'No one on the bivouac was issued .45 caliber ammo.' Captain Taylor does not believe their stories. Why wasn't he told, he asks the officers. Wilcox: Nivens felt Taylor would go to Washington with it. Taylor: 'Consider yourselves under arrest, gentlemen. The charge is murder.' Davenport orders them released. Taylor: They're as guilty as hell. Charge them, I'll back you up. Davenport replies he does what the facts tell him, 'not you.'Davenport and Taylor are on the bridge near where Waters was killed. Davenport: I think Waters tricked the kid into attacking him.Davenport questions Wilkie again. Wilkie is seated in the barracks and wipes his sweaty palms on his uniform. He can't understand why Davenport wants to speak to him again. 'No, Waters was not a nice guy,' Wilkie says. Waters' demoting him made him mad, all the things he did for Waters. Davenport: You were his boy. You took care of the team. You ran his errands. You policed his quarters. You listened to his stories. You put the gun under C.J.s bunk. Wilkie: No! It wasn't me. It was Sarge who ordered me to do it. He said I'd get my stripes back. The Sarge just wanted to scare him; put him in jail for a few days, but then C.J. hit him, then he had C.J. where he wanted him. Waters despised C.J., but he hid it because everybody like C.J., but underneath there was a cray kind of hate, sometimes you could just feel it.Flashback: C.J. is singing in Big Mary's club. Waters is at the bar with Wilkie watching him. 'This kinda boy seems innocent...White boys envy his strength, his speed... He can't talk. Can't barely read or write his own name... he don't care. He'll tell you they like him. Colored folks ain't supposed to have so much sense. You know the damage one ignorant Negro can do?' He shares with Wilkie an incident that took place when he was in France during the First World War. 'We had won decorations. The white soldiers told the French gals we had tails. They found an ignorant colored soldier and paid him to tie a tail to his ass and run around half naked making monkey sounds...They put him on a big round table in the Café Napoleon. .. made him eat bananas in front of all them Frenchies. How the white boys danced that night...Passed out pictures with that boy's picture on it. Called him "Moonshine", "King of the Monkeys." And when we slit his throat you know that fool asked us what he'd done wrong? ...My Daddy told me we got to turn our backs to these kind, Wilkie...We are men. Soldiers. And I don't intend for our race to be cheated out of its place of honor and respect in this war because of fools like C.J. You watch everything he does. Everything.'Present day, Wilkie and Davenport: 'And I watched him,' says Wilkie. Davenport: Why didn't Waters pick on Peterson-they had the fight. Wilkie: Sarge liked Pete. Pete fought back. He was going to promote Pete. After C.J. died 'Pete' put together the protest that lost our last game. Then he kept to himself, or with Smalls.Outside a flare gun goes off. The soldiers are celebrating, and more flare guns are fired into the night sky, like fireworks. The men are shipping out; they are finally going to get a chance to fight. Davenport places Wilkie under arrest.Smalls goes AWOL but is caught. Davenport interrogates Smalls. Davenport: Peterson knew that I'd find out the two of you killed Waters. Smalls: It was Peterson, sir. It wasn't me.Flashback: Peterson and Smalls are walking across the bridge. They come across Waters, drunk on the ground. Peterson: I'm gonna enjoy this. He offers Waters a hand up, and then kicks him back down. Waters starts crying: C.J. could never make it. He was a clown. A clown in blackface. 'You got to be like them. But the rules are fixed.' In a high-pitched voice he sings a line from C.J.'s tune 'Low Down Dirty Shame' - the tune everyone loved. Then he says 'it doesn't make any difference...They still... hate you.' Peterson draws his weapon. 'Justice, Smalls. For C.J. For everybody.' He shoots Waters in the chest, knocking him on to his back.Present day: Davenport asks Smalls, 'And you call that justice?' Peterson is brought in, in handcuffs. He stares at Smalls. 'You told him, didn't you.' He laughs and turns to Davenport. 'I didn't kill much. Some things need getting rid of. Man like Waters never did nobody no good anyway, Cap'n.' Davenport: Who gave you the right to judge? To decide who is fit to be a Negro-and who is not? Who? Smalls and Peterson are taken away.Davenport is leaving the base as the soldiers are rolling out. Taylor, in aviator sunglasses, and Ellis, pull up alongside in a jeep. Taylor: So I guess that's it. You got your man. I was wrong. Davenport: So was I. Davenport, laden with bags and an overcoat, says to 'Charlie,' he could do with a lift. Captain Taylor offers Davenport a hand as he climbs into the back. 'I guess I'm gonna have to get used to Negroes with bars on their shoulders, Davenport. You know, being in charge.' Davenport puts on his sunglasses. 'Oh, you'll get used to it, Captain. You can bet your ass on that. You'll get used to it.'"""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "6uW68YQBlDlURf2gx3Vf",
+        "_score" : 13.161775,
+        "_source" : {
+          "title" : "El imperio del sol",
+          "year" : "1987",
+          "genres" : [
+            "Drama",
+            "History",
+            "War"
+          ],
+          "actors" : [
+            "Christian Bale",
+            "John Malkovich",
+            "Miranda Richardson",
+            "Nigel Havers",
+            "Joe Pantoliano",
+            "Leslie Phillips",
+            "Masatô Ibu",
+            "Emily Richard",
+            "Rupert Frazer",
+            "Peter Gale",
+            "Takatarô Kataoka",
+            "Ben Stiller",
+            "David Neidorf",
+            "Ralph Seymour",
+            "Robert Stephens",
+            "Naishe Zhai",
+            "Guts Ishimatsu",
+            "Emma Piper"
+          ],
+          "director" : "Steven Spielberg",
+          "guionist" : "Tom Stoppard",
+          "score" : "7.7",
+          "summary" : "A young English boy struggles to survive under Japanese occupation of China during World War II.",
+          "sinopsis" : """The story begins in 1941, just prior to the Japanese attack on Pearl Harbor. Jamie Graham is a precocious and privileged boy living with his parents in Shanghai. His father is a rich British businessman and the family lives in a mansion on the outskirts of the city and Jamie attends an exclusive prep school. Much has been done to shelter Jamie from the Chinese culture that surrounds him and he is quite spoiled, treating the family's servants with utmost disrespect. Very interested in aviation, Jamie harbors an interest in one day joining the Japanese air force, a dream that his father finds disturbing.The family attends a costume ball thrown by one of the father's business associates, Mr. Maxton. While there, Jamie runs off to fly his wooden glider. He finds the wrecked fuselage of a fighter plane near an abandoned airfield. While he plays with the controls, his glider slips out of sight behind a mound. He scrambles up the mound and finds an encampment of Japanese soldiers. While he stares at them, his father and Maxton appear and call him down, specifically telling Jamie not to run. As they walk away and the Japanese soldiers return to their camp, Jamie remarks that they "seem to be waiting for something to happen". Maxton suggests that Graham take his family to their apartment in the city and seek an exit from Shanghai, most likely by sea.The family returns to their Shanghai apartment. Early the next morning, Jamie spots a Japanese warship in the harbor communicating with land forces using flashing lights. Jamie begins using his own flashlight from his room when an explosion throws him back from his window. The Japanese move into the city in full force. Jamie's family is able to make it to their limousine but are unable to get very far due to the crowds of people filling the streets. They exit the limo and find themselves crushed and separated among the crowd. Jamie's mother manages to hold on to Jamie when separated from her husband but Jamie lets go of her hand when he drops his toy plane. He sees his mother being helplessly pushed away and she bids him to return to their mansion. Shortly after Jamie witnesses fighting between the Chinese resistance and the Japanese army, seeing a man die in front of him for the first time. The resistance fighters are quickly found and killed.Jamie arrives home to find the house empty. He sees signs of a struggle in his parents bedroom, perhaps indicating that his mother was taken from the house by force. He hears noise downstairs and finds the maid of the house with the other Chinese servant, stealing furniture. When Jamie demands to know what they're doing, the servant, whom Jim had treated badly over the years, calmly walks over and slaps his face and leaves.Jamie stays in the house several months (indicated by the falling level of water in the swimming pool), eating whatever food he can find. When his food and water run out, he rides his bike back to Shanghai to find that the Japanese have long since cemented their control of the city. Jamie tries to surrender to a passing battalion of marching soldiers but they ignore him and his bike is stolen. A homeless Chinese boy notices Jamie and tries to call him over. Jamie refuses and runs through the streets and back alleys, people ignoring his cries for help. The Chinese boy catches and beats him, taking whatever Jamie has on him. Jamie manages to break free and runs into the street, nearly being hit by a truck. The truck's driver, Frank, scares Jamie's tormentor off and takes Jamie with him to an abandoned freighter where Frank's friend, Basie, is cooking rice. Basie deftly searches Jamie for anything of value, taking Jamie's aviator sunglasses and a British crown coin he'd found in the swimming pool. He also gives Jamie a new name, "Jim" and coldly serves Jamie Frank's share of the rice he'd made.The next day Frank and Basie set about trying to "sell" Jim to anyone who needs a manual laborer. When they're unable to sell Jim they decide to leave him to the streets as an orphan. Jim pleads with them to let him stay, even offering them the pickings of rich houses in his old neighborhood outside the city. The three travel to Jim's old house where the lights are on and music, Jim's mother's favorite tune, can be heard. However, the house has been seized by the Japanese, who march out immediately and capture all three. As Jim is held back, Basie is severely beaten.Basie and Jim find themselves in a holding center for foreign prisoners in Shanghai. They spend a significant amount of time there; Jim discovers that the other kids there will steal openly from him to survive, a tactic he also learns from Basie. One day, when the Japanese come to select prisoners for transport to an official camp, Basie is chosen, who boards the truck and ignores Jim's pleas to take him along. Jim begs the driver to take him along and finds that the driver is unsure of the route to the camp. Jim assures the driver that he can guide them to the camp, which is near his parents' old country club. The truck driver throws the annoying Jim into the truck and they leave.The truck arrives at Soochow Creek Interment camp, which is situated right next to an airbase construction site. As the prisoners get off the truck they are ordered to carry white stones up to the spot where a runway is being laid. Jim breaks off from the group, seeing a work area for Japanese Zero airplanes. As he touches one of them, a guard, Nagata, prepares to shoot him. A group of three Japanese pilots approaches and Jamie salutes them; Nagata lowers his rifle when the pilots return Jamie's salute.The story jumps ahead to the Summer of 1945, near the end of the war. Jim has etched out a considerably active life for himself involving an intricate trade network among the other British prisoners and even Nagata himself, who has since been invested as the commanding officer of the camp. While dropping off Nagata's freshly polished boots, Jim slyly steals a bar of soap from the sergeant. Jim's last stop is at the camp infirmary, where he aides the camp doctor, Rawlins, in performing CPR on a dying patient. The woman moves her eyes slightly, seemingly looking at Jim, who now believes he's brought her back to life. Jim appears to lose control, frantically pumping the woman's chest and Rawlins is forced to throw Jim off the dead woman. Rawlins has been schooling Jim in Latin and classical poetry, but is unable to teach Jim to recognize when his efforts go too far. Jim leaves the hospital and goes to the American prisoners barracks, delivering the soap to Basie. Basie shows Jim his latest project which involves laying snares in the marsh next to his barracks, hoping to catch pheasants for next Thanksgiving. Basie also makes a deal with Jim: if Jim lays the snares, Basie will let Jim move into the American dorm and take him along if he finds a way to escape the camp.That night the airbase is bombed by American pilots, who drop a bomb very close to the prison camp. In retaliation, Nagata and a few of his officers begin breaking windows in the British and American barracks. When Nagata moves on the infirmary, Rawlins tries to stop him. The sergeant begins to violently and mercilessly beat the doctor. Jim steps in, smashing two windows and begging Nagata in Japanese to cease his punishment, which he does. Rawlins, in gratitude for Jim's actions, gives Jim a pair of two tone golf shoes that belonged to a recently deceased patient.The next day, Jim steals away from the camp to the marsh near the American dorm. Waiting for the tower guard to sit down and leaving his golf spikes behind, he crawls into the marsh to place Basie's snares. However, Basie has another motive for planting the traps: he is using Jim to test the marsh for mines. Moments later, Nagata appears and yells at the guard to take up his post. Nagata finds Jim's shoes and wades into the marsh after him. He is just about to find Jim when a Japanese boy from the airbase calls the sergeant over; the boy has lost his toy glider in the marsh and Nagata retrieves it for him. As the two walk away, the boy salutes Jim, whom he'd seen all along. Jim is given his own space in the American dorm, much to Frank's chagrin, who has to give up some of his own personal space for the young upstart.One day, Basie and another American prisoner, Dainty, are going over potential escape plans using a cork and needle as a compass (provided them by Jim & his pilfering network). Nagata shows up unexpectedly and sees how comfortably Basie has been living. He also finds the bar of soap stolen by Jim and becomes instantly furious, beating Basie severely. Basie leaves Jim in charge of his possessions, knowing he'll be sent to the infirmary. Jim visits him there after seeing through his binoculars that Basie has been given the mosquito net usually reserved for dying patients. (Basie tells him that he merely bribed Dr. Rawlins for it.) During their conversation, Basie suddenly asks Jim why he isn't back at the dorm minding Basie's things; Jim says that the older and larger men in the dorm took everything, Jim being fairly helpless to stop them. Ashamed, Jim leaves the American dorm shortly after Basie returns from the hospital.Now essentially homeless, Jim awakes one morning after falling asleep on the grounds of the camp and sees a kamikaze ritual taking place at the airbase. Moved by the ceremony, he begins to sing "Suo Gân" a Welsh folk song from his childhood days of singing in the choir. As the planes take off one suddenly explodes in midair; a squadron of American P-51 Mustang fighters have arrived and begin to destroy the airbase. Exhilarated, Jim climbs to the top of a bombed-out building to watch the battle and sees one of the American pilots waving at him. Jim begins to scream in joy. As the battle continues, Rawlins, fearing for Jim's safety, yells for the boy to come down. Jim doesn't listen and Rawlins climbs after him, finally catching him as the battle winds down. He yells at Jim to return to reality and Jim breaks down, saying he can't recall what his parents looked like. Rawlins carries him down, Jim blankly reciting the poem that Rawlins had been teaching him.The next day, the camp is evacuated by Nagata. The prisoners are told that there will be food waiting for them further inland and a march is quickly started. As they leave, Jim sees the young Japanese boy he'd befriended through the camp wire taking the ceremonial drink of the kamikaze pilots. The boy jumps into his plane but cannot take off because the plane refuses to fire up.The group reaches Nantao Stadium, many miles away, where the Japanese spoils from Shanghai are stored. Among the automobiles there, Jim finds his father's old limo. After being told that there's no food or water there, Jim stays behind with Mrs. Victor, a woman who acted as a guardian to Jim back in Soochow. Jim tells her to act dead so they can stay, however, Mrs. Victor actually dies. As a devastated Jim sits with her body, he sees a gigantic flash of light to the east, one of the atomic bombs dropped by the United States on Japan. Jim believes it is Mrs. Victor's ascending soul, however, he hears a radio broadcast later that reports about the new weapon and the surrender of the Japanese Empire, ending the war.As the starving and weakened Jim staggers back to Soochow he notices large canisters falling from the sky on parachutes. They are from the Red Cross and contain food and other supplies. Jim gathers what he can and returns to the prison camp. There he finds the young Japanese boy from the airbase, who is angrily slashing at the marsh with his samurai sword. Recognizing Jim, he stumbles away crying. Jim hears an engine revving and sees a car break through a wall of fire. In the car are Basie and a couple of other men he'd joined up with who are looting the relief containers. The Japanese boy offers Jim a mango and is about to help Jim cut it with his katana when he is shot by one of Basie's companions. As the man rushes over Jim flips him into the marsh and leaps on him, wildly punching him. Basie pulls Jim off, who turns his attention to the Japanese boy. He tries to revive him using CPR but the boy is clearly dead and Basie again pulls Jim off. As he tries to soothe Jim, Jim pulls away, a crazed look in his eye; Jim's experiences during the war of stealing, death and fear have finally pushed him onto the path to adulthood. Basie decides to leave Jim behind, knowing Jim will survive. Jim stays in the camp a bit longer, riding a bike like he did in childhood and laughing. He is found by a U.S. Army unit, to whom he "surrenders".Jim returns to Shanghai and is housed in an orphanage for child war prisoners. The kids are assembled by the nuns for a group of parents who have returned to Shanghai following the war; Jim's parents are among them. They wade through the sea of children, not able to find Jim at first, but spot him after a few moments. Jim, scarred from his experiences and still in shock, doesn't believe his own eyes as he recognizes his mother by her face and hair and eventually collapses in her loving arms."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "mOW68YQBlDlURf2gyHcN",
+        "_score" : 13.161775,
+        "_source" : {
+          "title" : "La tumba de las luciérnagas",
+          "year" : "1988",
+          "genres" : [
+            "Animation",
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi",
+            "Yoshiko Shinohara",
+            "Kôzô Hashida",
+            "Masayo Sakai",
+            "Kazumi Nozaki",
+            "Yoshio Matsuoka",
+            "Masahiro Kanetake",
+            "Kiyoshi Yanagawa",
+            "Hajime Maki",
+            "Atsuo Omote",
+            "Teruhisa Harita",
+            "Hiroshi Tanaka",
+            "Michio Denpô",
+            "Shirô Tamaki",
+            "Tadashi Nakamura",
+            "Mika Sekita"
+          ],
+          "director" : "Isao Takahata",
+          "guionist" : "Akiyuki Nosaka",
+          "score" : "8.5",
+          "summary" : "A young boy and his little sister struggle to survive in Japan during World War II.",
+          "sinopsis" : "&#12302;&#28779;&#22402;&#12427;&#12398;&#22675;&#12303;The date is September 25th, 1945, shortly after the end of World War II. A young boy sits against a pillar at Sannomiya Station, dying of starvation. Later that night, a janitor removes his body and digs through his possessions, finding nothing but a candy tin containing ashes and a few fragments of bone which he throws away into a nearby field. From the tin springs the spirit of the young boy followed by his little sister along with a cloud of fireflies. The spirit of the young boy, Seita (Tsutomu Tatsumi, English: J. Robert Spencer), narrates the story of how he and his sister, Setsuko (Ayano Shiraishi, English: Rhoda Chrosite), fared in the wake of the firebombings of Kobe during the war.14-year-old Seita and 4-year-old Setsuko live with their mother (Yoshiko Shinohara), English: Veronica Taylor) comfortably in Kobe while their father serves as a captain in the Imperial Japanese Navy. One day, air raid sirens go off as a fleet of American B-29 Superfortress bombers flies overhead. The children's mother, who suffers from a heart condition, puts Setsuko in the care of her older brother and instructs him to secure the home while she goes ahead to a bomb shelter. Hundreds of incendiary bombs are dropped on the city and most of the civilians are caught off-guard. Seita and Setsuko manage to survive the bombing unscathed and go in search of their mother. They find her at a makeshift clinic set up within a school, horribly burnt and covered head to foot with bloody bandages. She dies a short time later and is cremated in a mass grave with other casualties.Despite their loss, Seita is determined to care for Setsuko and protect her at all costs. They travel to the home of their aunt (Akemi Yamaguchi, English: Amy Jones) who allows them to stay but convinces Seita to sell his mother's kimonos for rice. While living there, Seita goes out to retrieve leftover supplies he had buried in the ground before the bombing and gives them all to his aunt, however, he keeps one tin of fruit drops for himself. The children's aunt becomes increasingly bitter due to the hardships brought on by the war. She becomes resentful of the children as food rations shrink and she accuses Seita on having done nothing to earn the food she cooks. Tired of his aunt's insults, Seita decides to leave with Setsuko and care for her on his own. They find refuge inside an abandoned bomb shelter and release fireflies within for light. Come morning, Setsuko is horrified to find that all the fireflies have died. She creates a grave for them in the dirt and Seita realizes the depth of her understanding when she asks him why their mother had to die too.The children soon run out of rice and food and, unable to find work or other means, Seita is forced to steal from local farmers' homes during air raids. When he is caught, he comes to terms with his desperation and takes an increasingly ill Setsuko to a doctor. The doctor informs Seita that his sister is suffering from malnutrition but offers no help. Desperate, Seita withdraws all of the money remaining in his mother's bank account, hoping that it will be enough to treat Setsuko or buy food. As he leaves the bank he becomes distraught when he learns from a nearby crowd that Japan has surrendered to the Allied Forces. Not only that, but he finds that the ship his father captained has been sunk along with most of the Imperial Navy. His father, who had once promised him that Japan could never be defeated. Seita returns to the bomb shelter with a heavy heart and large quantities of food only to find Setsuko lying on the ground, hallucinating and trying to encourage Seita to eat little rocks that she thinks are rice balls. Seita hurries to prepare some food and gets Setsuko to try a bit of watermelon. She thanks him and, exhausted, closes her eyes. She never wakes up.Using supplies donated to him by a local farmer, Seita prepares a pyre and cremates his sister's body. He places her ashes in the fruit drop tin which he keeps with him beside a picture of their father. A few weeks later, he finds himself in Sannomiya Station and dies of starvation. Illuminated by fireflies, the spirits of Seita and Setsuko are seen together, healthy and happy, as they look down on the modern city of Kobe."
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "7-W68YQBlDlURf2g0Z-F",
+        "_score" : 13.161775,
+        "_source" : {
+          "title" : "The Pacific",
+          "year" : "2010",
+          "genres" : [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "actors" : [
+            "James Badge Dale",
+            "Joseph Mazzello",
+            "Jon Seda",
+            "Ashton Holmes",
+            "Josh Helman",
+            "Rami Malek",
+            "Martin McCann",
+            "Keith Nobbs",
+            "Toby Leonard Moore",
+            "Tom Hanks",
+            "Jacob Pitts",
+            "Nathin Art Butler",
+            "Brendan Fletcher",
+            "Tom Budge",
+            "Dylan Young",
+            "Conor O'Farrell",
+            "William Sadler",
+            "Joshua Bitton"
+          ],
+          "director" : "James Badge Dale",
+          "guionist" : "Joseph Mazzello",
+          "score" : "8.3",
+          "summary" : "The Pacific Theatre of World War II, as seen through the eyes of several young Marines.",
+          "sinopsis" : """Robert Leckie, a local sports journalist, enlists in the United States Marine Corps, promising to write to a female neighbour, Vera. A doctor's son, Eugene Sledge, also wants to enlist, but he has a "heart murmur" as told by his father, and his friend, Sidney, enlists without him. Robert and Sidney are both sent to the island of Guadalcanal, where fierce fighting ensues against the Japanese. An USMC NCO, John Basilone, distinguishes himself by his service at the machine gun, carrying it to wherever the enemy attacks even at the cost of his hand, with which he has to grab the overheated barrel. After the battle is won, the marines are sent for rest and recreation in Australia, where they start sexual relations with local ladies; Basilone, however, is separated from the rest and sent back to the US to promote the sale of US war bonds, having been decorated for his heroism. The marines return to the fray (Leckie briefly leaving them as he develops enuresis from the rainy weather), and are eventually joined by Sledge, whose health has ostensibly improved, and who is in the mortar squad. Sledge meets up with his friend briefly, before the latter returns back to the US. Sledge also eventually befriends his squadmate, nicknamed "Snafu". The marines land on and fight a brutal campaign on the island of Peleliu, where Leckie is wounded and evacuated, and many others perish. Meanwhile, Basilone is tired of living the high life as the poster boy for the war bonds effort and returns to train marines at the bootcamp. There he meets and eventually marries a fellow Italian-American servicewoman (who is a Sargent at the kitchen). Later, his unit ships to Iwo Jima where Basilone is soon shot and killed among many others, in a moment of heroism and in slow motion. Meanwhile, Sledge becomes an expert warrior as his mortar squad now is at the island of Okinawa. There, as mental strain increases and brutality grows, news arrive that "a new type of bomb" was dropped on Japan, and the Japanese soon surrender. Leckie returns home and begins dating Vera, to whom he wrote many letters but never sent any, believing he'd die. Sledge returns home after 6 months more of service and has PTSD, while his friend Sidney adjusts much better, but remains loyal to his friend."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "N-W68YQBlDlURf2gz5UK",
+        "_score" : 12.946727,
+        "_source" : {
+          "title" : "El pianista",
+          "year" : "2002",
+          "genres" : [
+            "Biography",
+            "Drama",
+            "Music"
+          ],
+          "actors" : [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay",
+            "Emilia Fox",
+            "Michal Zebrowski",
+            "Ed Stoppard",
+            "Maureen Lipman",
+            "Jessica Kate Meyer",
+            "Julia Rayner",
+            "Wanja Mues",
+            "Richard Ridings",
+            "Nomi Sharron",
+            "Anthony Milner",
+            "Lucy Skeaping",
+            "Roddy Skeaping",
+            "Ben Harlan",
+            "Thomas Lawinky",
+            "Joachim Paul Assböck"
+          ],
+          "director" : "Roman Polanski",
+          "guionist" : "Ronald Harwood",
+          "score" : "8.5",
+          "summary" : "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+          "sinopsis" : "\"The Pianist\" begins in Warsaw, Poland in September, 1939, at the outbreak of the Second World War, first introducing Wladyslaw (Wladek) Szpilman, who works as a pianist for the local radio. The Polish Army has been defeated in three weeks by the German Army and Szpilman's radio station is bombed while he plays live on the air. While evacuating the building he finds a friend of his who introduces him to his sister, Dorota. Szpilman is immediately attracted to her.Wladyslaw returns home to find his parents and his brother and two sisters, packing to leave Poland. The family discusses the possibility of fleeing Poland successfully and they decide to stay. That night, they listen to the BBC and hear that Britain and France have declared war on Germany. The family celebrates, believing the war will end quickly once the Allies are able to engage Germany.Conditions for Jews in Warsaw quickly deteriorate. Wladek meets with Dorota, who accompanies him around Warsaw to learn of the injustice Jewish people have to face under the new Nazi regime. Businesses that were once friendly to them now won't allow their patronage. Wladek's father is harshly forbidden to walk on the sidewalk in the city by two German officers; when he begins to protest, one of the officers hits him in the face. The family soon has to move to the Jewish ghetto established by Nazi rule. The Holocaust is starting, and the family, though well-to-do before the war, is reduced to subsistence level, although they are still better off than many of their fellow Jews in the overcrowded, starving, disease-ridden ghetto.Wladyslaw takes a job playing piano at a restaurant in the ghetto, turning down an offer from a family friend to work for the Jewish Police, and the family survives, but living conditions in the ghetto continue to worsen and scores of Jews die every day from disease, starvation, and random acts of violence by German soldiers. One night the family sees the SS march into a house across the street and arrest a family. The eldest man is unable to stand when ordered because he is confined to a wheelchair and the SS officers throw him over the balcony to his death. The other family members are gunned down in the street and run over by the SS truck if they survived.By 1942, the aged father must apply for working papers through a friend of Wladek's, so that he can take a job in a German clothier. However, the day comes when the family is selected to be shipped to their deaths at the Treblinka concentration camp. Henryk and Halina are selected and taken away and the rest of the family is sent to the Umschlagplatz to wait for transport. They are later reunited. As the family sits under the blazing sun with hundreds of other Jews waiting for the trains, the father uses the family's last 20 zlotys to buy a piece of candy from a boy (who apparently isn't aware of his own impending doom). Each family member eats a tiny morsel of candy, their last meal together.As they are going to the trains, Wladyslaw is suddenly yanked from the lines by Itzak Heller, a Jewish man working as a police guard. Wladyslaw watches the rest of his family board the train, never to be seen again. He hides for a few days in the cafe he played piano in with his old boss there. He later blends in with the ten percent or so of the Jews that the Nazis kept alive in the ghetto to use for slave labor, tearing down the brick walls separating the ghetto and rebuilding apartment houses for new, non-Jewish residents. He is put to work, under grueling, abusive conditions, rebuilding a bombed-out building. He thinks he sees an old friend Janina Godlewska (a singer), but she passes quickly. He learns that some of the Jews are planning an uprising, and helps them by smuggling guns into the ghetto. While carrying bricks, he drops a load of them, is viciously whipped by an SS officer and is given a new job supplying the workers with building supplies. He also helps smuggle guns in potato sacks -- the weapons will be given to the resistance fighters on the other side of the wall for the uprising. At one point, he is almost caught by a German officer, who suspects that Wladek is hiding something in a sack of beans. After this close call, he decides he must escape and take his chances in the larger city. With the help of friend, Majorek (who was the friend that got his father working papers a few years before), he escapes and finds Janina and her husband.They take Wladyslaw to his caretaker Gebczynski (a man with the Polish resistance), who hides him for one night. The next day Gebczynski takes him to a vacant apartment near the ghetto wall, where he can live indefinitely on smuggled food; he must be silent however, since several non-Jews also live in the building and believe the apartment is empty. There, Wladek watches part of the Jewish Ghetto Uprising of April-May 1943, for which he helped smuggle the weapons, and watches weeks later as the uprising is finally crushed and its participants killed. Later, Gebczynski wants to move Wladek as the Nazis have found the weapons of the Polish resistance, forcing Gebczynski to be on the run also. Gebczynski says it's only a matter of time before the Nazis find the apartment Wladek is hiding in. Wladek decides to stay put, feeling safer where he is. His friend gives him an address to go to in case of an emergency, and leaves, gravely warning Wladek not to be caught alive by the Nazis. Wladyslaw remains in the apartment a few more months until he has an accident, breaking some dishes. The noise has blown his cover, and he has to scurry out of the building, being chased by an angry German woman who suspects him of being Jewish.Wladek goes to the emergency address he was given, where he surprisingly meets Dorota, who is now married, pregnant, and her brother dead. Dorota and her husband hide Wladek in another vacant apartment, where there is a piano that his silence keeps him from playing, but his new caretaker, Szalas, is very slack about smuggling in food, and Wladyslaw once more faces starvation, and at one point almost dies of jaundice. Dorota and her husband visit him, finding him gravely ill. They report that Szalas had been collecting money from generous and unwitting donors and had pocketed it all, leaving Wladek to die in isolation.Wladek recovers in time to see the larger 1944 Warsaw Uprising, in which the Poles tried to retake control of their city. Soon the Germans start attacking the building and he has to flee. The Poles had expected the advancing Soviet Red Army to help them, but the Russians did not come, instead allowing the Germans to put down the revolt, and drive the entire remaining population of Warsaw out of the city. Wladyslaw hides in the abandoned hospital that had been across the street from his second hideout. The Germans had by then decided to burn Warsaw to ashes, so Wladyslaw flees the hospital and jumps back over the wall into the ghetto, now an abandoned, desolate wasteland of bricks and rubble.He stays there, rummaging through burned-out buildings to find something to eat, and continues to hide, until one night a Nazi officer, Captain Wilm Hosenfeld, finds him. To prove to Hosenfeld that he is a pianist, he plays a somber and brief rendition of Chopin's \"Ballade in G Minor\", the first time he has played since he worked in the Jewish ghetto years before.Hosenfeld, moved by Szpilman's playing, helps him survive, allowing him to continue hiding in the attic even after the house is established as the Captain's headquarters. Hosenfeld eventually abandons the house with his staff when the Russian army draws closer to Warsaw. Hosenfeld gives Wladek a final parcel of food and his overcoat. He asks Wladek his surname, which sounds exactly like \"spielmann\", the German word for pianist. Hosenfeld promises to listen for Wladek on the radio. Hosenfeld also tells him that he only needs to survive for a few more days; the Russian army will liberate Warsaw soon. Shortly afterward, Wladyslaw sees Polish partisans, and, overcome with joy, goes outside to meet his countrymen. Seeing his coat given to him by Hosenfeld, they think he is a German and try to kill him, before he can convince them he is Polish.In the Spring, newly freed Poles walk past an improvised Russian prisoner of war camp, and Hosenfeld is among the prisoners. The Poles hurl insults at the Germans through the fence, but when Hosenfeld hears that one of the Poles is a musician, he goes to the fence and tells him that he helped Wladyslaw, and asks him to ask Wladyslaw to return the favor, before a Russian soldier throws him back down on the ground. The Polish musician does indeed bring Wladyslaw back to the site to petition the Russians, but they have departed without a trace by the time he gets there. Wladyslaw is unable to help Hosenfeld, but he returns to playing piano for the radio station.Closing title cards tell us that Hosenfeld died in a Soviet gulag in 1952. Wladyslaw lived to be an old man, dying in Poland in 2000 at the age of 88. The cards are intercut with footage of Wladek triumphantly playing Chopin's Grand Polonaise Brilliante in concert with a full orchestra accompanying him."
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "0OW68YQBlDlURf2gxnAx",
+        "_score" : 12.743064,
+        "_source" : {
+          "title" : "Quien tiene un amigo... tiene un tesoro",
+          "year" : "1981",
+          "genres" : [
+            "Adventure",
+            "Comedy",
+            "Action"
+          ],
+          "actors" : [
+            "Terence Hill",
+            "Bud Spencer",
+            "John Fujioka",
+            "Louise Bennett",
+            "Sal Borgese",
+            "Kainowa Lauritzen",
+            "Mirna Seya",
+            "Terry Moni Mapuana",
+            "Linda Prast",
+            "Kathy Lun",
+            "Herb Goldstein",
+            "Arnie Ross",
+            "Tom Tully",
+            "Baba Subraniam",
+            "Jay Amor",
+            "Salvatore Basile",
+            "Giancarlo Bastianoni",
+            "Giovanni Cianfriglia"
+          ],
+          "director" : "Sergio Corbucci",
+          "guionist" : "Mario Amendola",
+          "score" : "7.1",
+          "summary" : "On a small pacific island, Alan and Charlie try to find a war treasure left behind by the Japanese army in World War II.",
+          "sinopsis" : "Alan Lloyd (Terence Hill) is an inveterate gambler who accumulates a lot of debt and therefore is forced to flee, pursued by shady employers in the area. Charlie O'Brien (Bud Spencer) is an actor who is hired to advertise a jam (that tastes horrible) and is embarking on a long promotional boat trip. Alan, still fleeing, hides inside Charlie's boat behind his back.After Alan is discovered, the two get into a fight and fall out of the boat, eventually reaching a remote island in the Pacific Ocean. There, the two initially believe they are on a deserted island, but then discover that it is inhabited and familiarize themselves with the natives who are under the command of an elderly woman named Mama.The welcome party is interrupted by a group of leather-clad homosexual pirates who come each year to capture some natives to sell them as slaves, but they do not know that Alan and Charlie are there now. After a lot of punches and blows the gay pirates are expelled and flee from the island in their sailboat.Alan, Charlie and the natives celebrate and make peace with an old Japanese general in a fort on the island who still believes that World War II is not over. The man receives Alan and Charlie in his bunker and shows them a huge amount of money (stolen from the American navy during the war) that he kept hidden for years. Charlie is crazy with joy and secretly steals all the money, while the Japanese confides to Alan that the money is all fake.Charlie plans to leave with an old plane but the gay pirates inadvertently come back to the island more aggressive and with the incursion of a group of criminals who had the honor to clash with Alan at the beginning of the story. The natives are captured and humiliated, so Alan and Charlie, who had gone off (without the latter having discovered the secret of fake money), come back, swoop down with the plane on the attackers and fight their enemies in a battle to the sound of blows and punches, finally defeating them and bringing lasting peace to the island.Finally Alan and Charlie are rescued by the crew of USS Forrestal. They give the fake money to the navy, only to be told that it is real (the government spread the tale the money was fake to prevent the Japanese from spending it). They get hailed as heroes but end up without any money and a hand-made idol (a gift from the grateful natives for Alan and Charlie) ends up donated to a museum.In the final scene, we see the idol in a museum with a card saying that it is worth a fortune and Alan and Charlie are seen working as janitors at the museum and planning to steal it."
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "uOW68YQBlDlURf2gyX1c",
+        "_score" : 12.743064,
+        "_source" : {
+          "title" : "La fuerza de uno",
+          "year" : "1992",
+          "genres" : [
+            "Drama",
+            "Sport"
+          ],
+          "actors" : [
+            "Stephen Dorff",
+            "Armin Mueller-Stahl",
+            "Morgan Freeman",
+            "Nomadlozi Kubheka",
+            "Agatha Hurle",
+            "Nigel Ivy",
+            "Tracy Brooks Swope",
+            "Brendan Deary",
+            "Winston Mangwarara",
+            "Guy Witcher",
+            "Tonderai Masenda",
+            "Cecil Zilla Mamanzi",
+            "John Turner",
+            "Robbie Bulloch",
+            "Gordon Arnell",
+            "Jeremiah Mnisi",
+            "Paul Tingay",
+            "Hywell Williams"
+          ],
+          "director" : "John G. Avildsen",
+          "guionist" : "Bryce Courtenay",
+          "score" : "7.1",
+          "summary" : "An English boy, living in Africa during World War II, through his boxing prowess, becomes a symbol of hope, in a time of war.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "qeW68YQBlDlURf2gyX-y",
+        "_score" : 12.738594,
+        "_source" : {
+          "title" : "Rebeldes del swing",
+          "year" : "1993",
+          "genres" : [
+            "Drama",
+            "Music"
+          ],
+          "actors" : [
+            "Robert Sean Leonard",
+            "Christian Bale",
+            "Frank Whaley",
+            "Barbara Hershey",
+            "Tushka Bergen",
+            "David Tom",
+            "Julia Stemberger",
+            "Jayce Bartok",
+            "Noah Wyle",
+            "Johan Leysen",
+            "Douglas Roberts",
+            "Martin Clunes",
+            "Jessica Hynes",
+            "Carl Brincat",
+            "Mary Fogarty",
+            "Karel Belohradský",
+            "Peter Baikie",
+            "Jennifer Chamberlain"
+          ],
+          "director" : "Thomas Carter",
+          "guionist" : "Jonathan Marc Feldman",
+          "score" : "6.7",
+          "summary" : "A group of teens adores forbidden music in Nazi Germany just before the outbreak of World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "A-W68YQBlDlURf2gz5UK",
+        "_score" : 12.58029,
+        "_source" : {
+          "title" : "La guerra de Hart",
+          "year" : "2002",
+          "genres" : [
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Bruce Willis",
+            "Colin Farrell",
+            "Terrence Howard",
+            "Cole Hauser",
+            "Marcel Iures",
+            "Linus Roache",
+            "Vicellous Shannon",
+            "Maury Sterling",
+            "Sam Jaeger",
+            "Scott Michael Campbell",
+            "Rory Cochrane",
+            "Sebastian Tillinger",
+            "Rick Ravanello",
+            "Adrian Grenier",
+            "Michael Weston",
+            "Jonathan Brandis",
+            "Joe Spano",
+            "Sam Worthington"
+          ],
+          "director" : "Gregory Hoblit",
+          "guionist" : "John Katzenbach",
+          "score" : "6.3",
+          "summary" : "A law student becomes a lieutenant during World War II, is captured and asked to defend a black prisoner of war falsely accused of murder.",
+          "sinopsis" : """Belgium, December 16, 1944: First Lieutenant Thomas Hart (Farrell) is captured by German commandos during the opening of the Battle of the Bulge.Taken to a local prison, his boots are confiscated and he is left naked in a cell. Threatened with frostbite and pneumonia, he is coerced into divulging intelligence to his German interrogator.He and many other Americans are later transferred by train to a prisoner of war camp. While en route, a flight of P-51 Mustangs attack the station. Since the painted letters POW on the top of the train are covered by thick snow, the Mustangs fire on the train, causing some of the POWs to be killed by friendly fire. To save themselves, the POWs leave the train, spell POW with their bodies, and prevent further strafing.After arriving at the camp, Hart is debriefed by the ranking American officer, Colonel William McNamara (Willis). When McNamara asks if he cooperated with the Germans after he was captured, Hart denies it. McNamara knows this to be a lie, since he knows Hart was held for three days after seeing only a Level 1 interrogator. He does not reveal this to Hart and sends him to bunk in a barracks for enlisted men, rather than allow him to bunk with the other officers.Two Tuskegee Airmen are brought to the camp, Second Lieutenants, Lincoln A. Scott (Howard) and Lamar T. Archer (Vicellous Reon Shannon). They are the only blacks in the platoon, and their situation is compounded by their status as officers. Staff Sergeant Vic W. Bedford (Cole Hauser), a vicious racist, is their primary antagonist.Later, a spike from the fence, which could be used as a weapon, is found in Archer's bunk. The Germans drag him out, and, as he stands proud and defiant, shoot him, claiming that he was trying to escape. Directly after that, a radio used by the Americans to receive coded messages via the BBC is found and destroyed.Bedford is himself later found dead. Scott is seen standing over the body and is accused of killing him in revenge for Bedford framing Archer. A law student at Yale before the war, Hart is appointed by McNamara to defend the accused pilot at his court-martial, a trial to which the camp commandant, Oberst Werner Visser (Marcel Iures), agrees.Visser gives Hart a manual on US Army court-martial proceedings, furthering the conflict between him and McNamara when he uses the rule book to question the Colonel's conducting of the trial. On the witness stand, the angered Scott gives an emotional address on the treatment of Blacks like himself who joined up to serve their country with honor but are treated with disrespect in return.Late one night, Hart notices a fellow POW acting suspiciously and follows him to a room behind the theater where the trial is taking place. There he discovers a tunnel being dug. McNamara reveals to Hart that the "defense", like the trial itself, is a sham, an elaborate distraction to hide a planned escape and attack on a nearby ammunition plant which the Allies mistakenly believe to be a shoe factory. It is revealed that Bedford planted the spike in Archer's bunk, and, in return for the guards executing him for it, gave them the location of the secret radio. It is also revealed that Bedford planned to escape with forged German documents, money and clothes, likely in return for telling the Germans about McNamara's plan. McNamara realized this and killed Bedford to prevent it.Hart is shocked that McNamara as a senior officer would sacrifice fellow Americans to perpetuate this. McNamara reminds Hart that they are at war, and in war sometimes one man must be sacrificed to save the lives of many. Hart acknowledges this, but retorts that it is McNamara's duty to ensure that he, not Scott, is the sacrifice. Disgusted, McNamara says that Hart knows nothing about duty, in reference to how Hart gave in to a Level 1 interrogator after three days, whereas McNamara was tortured for a month.On the last day of the trial, McNamara and 34 others feign food poisoning in order to be excused from the closing arguments. They then slip down the escape tunnel. As he is about to go down, McNamara overhears Hart's closing speech. In order to save Scott, Hart announces that he killed Bedford.Visser orders everyone out and announces that Hart will be shot there and then. After the head count is short by 35 prisoners, Visser suspects an escape plot and locates the tunnel. Now fully aware of the deception, he furiously orders everybody involved in the trial to be shot. But before the sentence is carried out, McNamara, moved by Hart's selfless sacrifice, voluntarily returns to the camp to accept responsibility. At that moment the factory blows up and the other escapees scatter away.Visser holds McNamara accountable and personally executes him on the spot, sparing the remaining prisoners. Scott leads the salute to McNamara's dead body. Three months later, the German army surrenders to the Allies and the prison camp is liberated."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "IOW68YQBlDlURf2gxXDC",
+        "_score" : 12.537047,
+        "_source" : {
+          "title" : "Monseñor",
+          "year" : "1982",
+          "genres" : [
+            "Crime",
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Christopher Reeve",
+            "Geneviève Bujold",
+            "Fernando Rey",
+            "Jason Miller",
+            "Joe Cortese",
+            "Adolfo Celi",
+            "Leonardo Cimino",
+            "Tomas Milian",
+            "Robert Prosky",
+            "Joe Pantoliano",
+            "Milena Vukotic",
+            "Ian Danby",
+            "Gregory Snegoff",
+            "Harrison Muller",
+            "David Mills",
+            "Joe Spinell",
+            "Ritza Brown",
+            "Loredana Grappasonni"
+          ],
+          "director" : "Frank Perry",
+          "guionist" : "Jack-Alain Léger",
+          "score" : "5.1",
+          "summary" : "An ambitious priest seduces a nun and leads the Vatican into shady business during and after World War II.",
+          "sinopsis" : """Opening in the year 1943, inside an American Catholic church, John Flaherty (Christopher Reeve) is ordained as a priest and is included among a group of young men who will soon depart to serve as Army chaplains in Europe during World War II. In his first act as a priest, Flaherty officiates a Catholic marriage ceremony for his childhood friend, Lodo Varese (Joe Cortese), and dances with the maid of honor (Ritza Brown). The bride's father (Joe Spinell), compliments Flaherty's devotion, but quietly disapproves of him socializing with any woman.Some months later, in the war-torn Italian countryside, Flaherty crawls toward dying soldier, Musso (Joe Pantoliano), and blesses his soul for passage into heaven. After the man dies, Flaherty shakily grabs a .50 caliber machine gun and shoots at an incoming line of enemy German soldiers, stopping the attack.Another few months later, Flaherty is informed that he has been summoned to Vatican City in Rome, Italy. There, he meets Bishop Walkman (Robert J. Prosky), the liaison officer between the Vatican and the U.S. Army, who cites Flaherty's college education in accounting and hires him to work as the Vatican's financial advisor. Walkman advises the young priest to use his charming personality to his advantage, but to keep his head down and follow orders.The next day, Flaherty meets with Cardinal Secretary Santoni (Fernando Rey). Santoni, who holds out his hand for Flaherty to kiss his ring. Flaherty shakes his hand instead, explaining that he is unworthy because he sinned while committing murder on the battlefield. Impressed with the young man, Santoni extends his hand again, and this time, Flaherty kisses the jeweled finger.Three months later, Flaherty has his own office and Bishop Walkman instructs him to stay at Vatican after the news of the war being over in May 1945 arrives in Rome. When a cleric announces that Varese has arrived at the Vatican, Flaherty embraces his friend, relieved to find him returned from the battlefield alive. Varese drives Flaherty in his jeep to an army storeroom containing piles of supplies, many from the Vatican commissary, and explains that he sells them in black market dealings with the local Mafia.Later, Flaherty convinces Santoni to ease the Vatican's debt by cheaply purchasing the Vatican's supplies from American commissaries and then selling them for profit. He claims that the donations will help the church while diverting money from Italy's criminals. Although Santoni worries that the arrangement could hurt the Church's image, Flaherty offers to take full responsibility, and Santoni grants him complete control of the commissary. After Santoni adorns Flaherty with a pectoral cross, Flaherty bounds out of the office and runs into Cardinal Vinci (Adolfo Celi), who congratulates the priest on his achievements but reminds him of the power of choice. In the supply room, Varese warns his friend that the Mafioso, Don Appolini (Jason Miller), is a dangerous man.Together, they travel to Appolini's home in Sicily, where Flaherty proposes to sell him the Vatican's unused American cigarettes. The Mafia boss, however, refuses to get involved in a scheme that steals from the church. After mass that afternoon, Appolini reconsiders the deal and offers to split the profits, with Varese heading the operation. Removing the crucifix pins from his army uniform, Flaherty urges Appolini to call him "Finnigan" for all business dealings, and receives a briefcase containing $50,000.On the rainy drive back from Appolini's house, the two friends pick up a French nun and her students. Flaherty takes a liking to a postulate named Clara (Geneviève Bujold), and tells her his name is Lieutenant Finnigan. Once in Rome, he returns to the Vatican and presents Santoni with the cash.The following week, Flaherty, dressed in his military outfit, finds Clara wandering in the ruins of the Roman Forum, and arranges to meet with her in an ecclesiastical bookstore later that day. Meanwhile, a priest claims to have seen Flaherty consorting with Varese in the black market, and reports him to Vinci and Santoni. Santoni agrees to promote the cleric, putting him in a post that will keep him from investigating further.That evening, Flaherty brings Clara to the bedroom attached to Varese's supply room. Swallowing a glass of champagne, Flaherty kisses her; before they make love, she admits that she has been a postulate for two years because the sisters doubt her commitment. Later, Flaherty confesses his carnal sins to a cardinal, revealing his priesthood and his romantic feelings for Clara.Over dinner with Appolini, Flaherty proposes to use Appolini's Swiss bank account to open legitimate businesses that will covertly support the Vatican's finances after the war. One afternoon, on a rooftop terrace, Clara and Flaherty confess their love for one another, but Clara suspects that Flaherty is keeping his true identity hidden.While participating in a ceremony for the Pope (Leonardo Cimino), Clara catches sight of Flaherty in his clerical robes and they lock eyes across the chapel. After Flaherty is appointed as monsignor, she scorns him for his deception and proclaims she will never forgive him, and thus walks out on him forever. Varese and the heartbroken Flaherty drunkenly cavort with prostitutes when Appolini barges in and instructs Varese to clean up his act. Feeling as if he has lost his way, Flaherty gives his necklace to Father Francisco (Tomas Milian), but Francisco insists that God will never lose faith in him.The film skips forward several years later in the 1950s. Flaherty has become a cardinal, but under his alias Mr. Finnigan, he continues to do business deals when out of his red clerical robe. Varese conducts a multi-million dollar business deal that puts him under investigation by various international banks; the cardinals of the Church convene with the Pope to inform him that Varese has absconded $40 million in cash and lost $600 million of the Church's money. Revealing that they have been secretly monitoring Flaherty's corrupt business dealings for the past six months, the clergy decide to remove him from the papal committee.Flaherty meets with the Pope privately, requesting time to devise a plan that will save the Vatican's finances and reputation before leaving the Vatican and renouncing his collar. Flaherty meets with the terminally ill Appolini, who agrees to front the Church with enough money to cover their debts, but claims that Varese fled to New York City. Appolini swears on the cross that he will allow Varese to live, and Flaherty flies to the U.S. to find his friend.In an apartment in New York, Varese admits that he stole the money because he was tired of helping Appolini become rich, while receiving no share of the profits himself. To keep him from being arrested by the government and causing further scandal for the Vatican, Flaherty forces Varese to promise to seek refuge in a New York City monastery; however, after Flaherty leaves, Varese books a seat on a flight. On his way out of the apartment, the ailing Appolini arrives with three mobsters and kills him.In the final scene, after many months working in a quiet Italian monastery, Flaherty returns to the Vatican and is offered a position by Father Francisco, who draws him into an embrace."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "S-W68YQBlDlURf2gyXwI",
+        "_score" : 12.537047,
+        "_source" : {
+          "title" : "La Venganza De Los Muñecos 2",
+          "year" : "1991",
+          "genres" : [
+            "Fantasy",
+            "Horror",
+            "Sci-Fi"
+          ],
+          "actors" : [
+            "Guy Rolfe",
+            "Richard Lynch",
+            "Ian Abercrombie",
+            "Kristopher Logan",
+            "Aron Eisenberg",
+            "Walter Gotell",
+            "Sarah Douglas",
+            "Matthew Faison",
+            "Michelle Bauer",
+            "Jasmine Totschek",
+            "Eduard Will",
+            "John Regis",
+            "Neal Parrow",
+            "Kenneth Cortland",
+            "Lenny Rose",
+            "Laurie Mateyko",
+            "Rhonda Britten",
+            "Michael Lowry"
+          ],
+          "director" : "David DeCoteau",
+          "guionist" : "Charles Band",
+          "score" : "5.9",
+          "summary" : "A puppeteer's ability to bring inanimate objects to life attracts the attention of the Nazis during World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "huW68YQBlDlURf2g0qM4",
+        "_score" : 12.537047,
+        "_source" : {
+          "title" : "Retorno a Brideshead",
+          "year" : "2008",
+          "genres" : [
+            "Drama",
+            "Romance"
+          ],
+          "actors" : [
+            "Matthew Goode",
+            "Patrick Malahide",
+            "Hayley Atwell",
+            "Thomas Morrison",
+            "David Barrass",
+            "Anna Madeley",
+            "Sarah Crowden",
+            "Stephen Carlile",
+            "Peter Barnes",
+            "Richard Teverson",
+            "Joseph Beattie",
+            "Ben Whishaw",
+            "Roger Walker",
+            "Mark Field",
+            "Mark Edel-Hunt",
+            "Rita Davies",
+            "Ed Stoppard",
+            "Emma Thompson"
+          ],
+          "director" : "Julian Jarrold",
+          "guionist" : "Andrew Davies",
+          "score" : "6.7",
+          "summary" : "A poignant story of forbidden love and the loss of innocence set in England prior to World War II.",
+          "sinopsis" : """WWII. The British headquarters move to Brideshead, a mansion in the middle of the English countryside, and Charles is one of those in charge. He happens to be the narrator of the story, and while he makes some comments about the uncomfortability of the place and its inadequate geography, he also remembers with fondness his past happiness there.A painter who is showcasing his last South-American jungle-themed collection leaves the party where many East-Coast millionaires are buying his paintings. He sees a woman and goes after her. When she has reached her first-class cabin, she turns and says "Hello, Charles."Flashback to Charles Ryder (Matthew Goode) starting his first year at Cambridge, and his cousin Jasper (Richard Teveron) shows him around. Charles wants to be a painter, but he must study something more practical, so he goes for History. He gets a room in the ground floor of one of the dorms. Even before he has unpacked, a drunk student appears and throws up in the floor. The next day, Charles gets some flowers from that student, Sebastian Flyte (Ben Whishaw) a homosexual English Lord who hangs out with Anthony Blanche (Joseph Beattie) - a flamboyant homosexual as well - and Boy Mulcaster (Mark Field).Sebastian and Charles become friends, but they never fulfill their sexual desire - an unsolved sexual tension grows on between then. Sebastian takes Charles to see Brideshead, the manor mansion of his family, and Nanny (Rita Davies), an elderly lady who has always taken care of Sebastian and who says that she is praying for Sebastian's soul. Charles considers this a bit odd, but he doesn't make any comment about it. They leave before Sebastian's mother appear with some Conservative ladies. On such a rush visit, Charles can only catch glimpses of the paintings at Brideshead. He leaves fascinated and mesmerized with the palace, the views, the art, the ever-obliging servicepeople. Also, on their way out, Charles catches a glimpse of Sebastian's older sister, Julia (Hayley Atwell).Summer holidays. Charles finds his father's (Patrick Malahide) company utterly boring, so he runs to Brideshead after Sebastian sends a telegramme asking Charles to come because he was in an accident. Sebastian only injured his foot. Charles and Sebastian get closer and closer.Charles will know the rest of the family: Cordelia, (Felicity Jones), who sends money to some African nuns so that they christen an African girl with her name, Brideshead "Bridey" (Ed Stoppard), business-minded and too formal, and mother-of-four Lady Marchmain (Emma Thomson), who is a die-hard Catholic, the tyrant of her house. However, this time, in spite of her objections, Sebastian and Julia will visit their estranded father (Michael Gambon),and Charles tags along.They are happy there. They also meet Cara (Greta Scacchi), the father's lover. She tells Charles that Sebastian will always like men, but that for Charles himself will be only a phase. During the Carnival, Charles kisses Julia, who will run away afterwards. Sebastian sees that kiss, and his mood towards everything changes.When they return to Brideshead, Sebastian takes to drinking too much, and Lady Marchmain tells Charles that he could never possibly marry Julia, as Charles is an Atheist. Lady Marchmain asks Charles to take care of Sebastian for Julia's 21st birthday party. He gives Sebastian money so that he can buy more drink. Sebastian makes a fool of himself at the party. Julia announces that he is going to marry Rex Mottram (Jonathan Cake), richer than her own family, and a Catholic. She may not be really in love with Rex, and Cordelia thinks Rex is horrible. Lady Marchmain puts Charles out as he has given money to Sebastian.Four years later, Charles is hard at work, painting. He meets Celia Mulcaster (Anna Madeley) while at work. They marry soon.Lady Marchmain appears to ask a favour of Charles: to bring Sebastian back from Morocco. Although Charles refuses at first, he'll travel there. He finds that Sebastian is really sick, and he doesn't want to come back to Brideshead. Charles says that Sebastian has found some piece of mind while working on a monk abbey. Soon afterwards of acknowledging Sebastian's refusal, Lady Marchmain dies.Back at the party, Celia insists that Charles should socialize with the wealthy party-goers. Anthony Blanche appears, seemingly mocking himself and Charles. Anthony says that Charles is ambitious. Anthony makes a comment that, when Charles decided to spend the holidays with Sebastian and Julia, Charles would be like a sheep among the wolves, but he realises that it happen all the opposite way, because Charles has hunted both Sebastian and Julia. "There is no stop to your ambition", he says, and Charles doesn't even pretend to reject this preposition.Charles and Julia make love, (finally). Later, they go to the bar, and they decide each one of them will leave their spouse and live together, maybe in Paris or Italy. Back at Brideshead, Bridey arrives to have dinner with them, telling them of his approaching marriage to a strict Catholic who would never visit somebody living in sin. Julia gets deeply upset because of it. Charles talks to Rex. He'll free her in exchange for some of Charles' paintings.Cordelia appears to say that Sebastian is healthy again, and that he's stayed at the hospital to work there. When Charles and Julia are about to leave Brideshead, Lord Marchmain appears to die at his old home, so Julia feels she can't leave. He refuses to see Father Mackay (Niall Buggy). Lord Marchmain says that he and Charles have betrayed Sebastian. In a conversation with Julia, Charles realises -and admits aloud- that he's always wanted Brideshead.Lord Marchmain makes the sign of the cross and receives the last rites just before he dies, in view of all the family. Julia won't be able to resist: her faith prevents her from leaving Brideshead. Charles leaves alone, and wonders if he wanted too much, or whether he was blind to their strong faith.WWII. The British headquarters move to Brideshead and Charles is one of those in charge. He talks with Hooper (Thomas Morrison), a soldier who believes that this life is all there is. Hooper says that the older brother has died and there is a sister who normally lives in the house, but is currently overseas with the women's service. Charles goes into the house and enters the chapel, dipping his fingers in the holy water. He walks over to a statue of Mary and young Jesus and a burning candle and stands there remembering Sebastian and Julia. He holds his wet fingers in front of the candle flame, intending to snuff it out, then decides not to and leaves the chapel. We see his unfocused figure walking out of the house."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "5OW68YQBlDlURf2gxnKV",
+        "_score" : 12.341778,
+        "_source" : {
+          "title" : "Bajo el volcán",
+          "year" : "1984",
+          "genres" : [
+            "Drama"
+          ],
+          "actors" : [
+            "Albert Finney",
+            "Jacqueline Bisset",
+            "Anthony Andrews",
+            "Ignacio López Tarso",
+            "Katy Jurado",
+            "James Villiers",
+            "Dawson Bray",
+            "Carlos Riquelme",
+            "Jim McCarthy",
+            "José René Ruiz",
+            "Eleazar Garcia Jr.",
+            "Salvador Sánchez",
+            "Sergio Calderón",
+            "Araceli Ladewuen Castelun",
+            "Emilio Fernández",
+            "Arturo Sarabia",
+            "Roberto Sosa",
+            "Hugo Stiglitz"
+          ],
+          "director" : "John Huston",
+          "guionist" : "Malcolm Lowry",
+          "score" : "6.9",
+          "summary" : "A day in the life of a self-destructive British consul in Mexico on the eve of World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "W-W68YQBlDlURf2gyHqx",
+        "_score" : 12.341778,
+        "_source" : {
+          "title" : "God afton, herr Wallenberg",
+          "year" : "1990",
+          "genres" : [
+            "Biography",
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Stellan Skarsgård",
+            "Katharina Thalbach",
+            "Károly Eperjes",
+            "Miklós Székely B.",
+            "Erland Josephson",
+            "Franciszek Pieczka",
+            "Jesper Christensen",
+            "Ivan Desny",
+            "Géza Balkay",
+            "Percy Brandt",
+            "Tamás Jordán",
+            "Andor Lukáts",
+            "Gábor Reviczky",
+            "László Soós",
+            "Franciska Györy",
+            "Zsuzsa Szabó",
+            "László Csákányi",
+            "István Mészáros"
+          ],
+          "director" : "Kjell Grede",
+          "guionist" : "Kjell Grede",
+          "score" : "6.5",
+          "summary" : "A story of how a Swedish diplomat saved thousands of Hungarian Jews during the final months of World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "u-W68YQBlDlURf2g1Kwz",
+        "_score" : 12.341778,
+        "_source" : {
+          "title" : "Fugitive Pieces",
+          "year" : "2007",
+          "genres" : [
+            "Drama"
+          ],
+          "actors" : [
+            "Stephen Dillane",
+            "Rade Serbedzija",
+            "Rosamund Pike",
+            "Ayelet Zurer",
+            "Robbie Kay",
+            "Ed Stoppard",
+            "Rachelle Lefevre",
+            "Themis Bazaka",
+            "Nina Dobrev",
+            "Diego Matamoros",
+            "Sarah Orenstein",
+            "Larissa Laskin",
+            "Daniel Kash",
+            "Yorgos Karamihos",
+            "Danai Skiadi",
+            "Monika Schurmann",
+            "Jordan Pettle",
+            "Vieslav Krystyan"
+          ],
+          "director" : "Jeremy Podeswa",
+          "guionist" : "Anne Michaels",
+          "score" : "6.9",
+          "summary" : "A child escapes from Poland during World War II and first heads to Greece before coming of age in Canada.",
+          "sinopsis" : "Fragments of past and present create a haunting kaleidoscope of words and emotions. Lyrical and complex, Jeremy Podeswa's adaptation of Anne Michael's beloved novel builds into a breathtaking mosaic as fragments of the past and present reveal the inner depths of a writer who can't let go of the ghosts that haunt him.Athos is directing an archaological dig in Nazi-occupied Poland when he discovers a little boy hiding. After witnessing the massacre of members of his family, seven-year-old Jakob does not know the fate of his beloved sister Bella - a mystery that will haunt him for the rest of his life. As Jakob grows into a man, he becomes progressively more consumed by his family's tragedy and his longing for Bella, coloring his relationships. A truly moving and unforgettable story."
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "vOW68YQBlDlURf2g1Kwz",
+        "_score" : 12.341778,
+        "_source" : {
+          "title" : "Fugitive Pieces",
+          "year" : "2007",
+          "genres" : [
+            "Drama"
+          ],
+          "actors" : [
+            "Stephen Dillane",
+            "Rade Serbedzija",
+            "Rosamund Pike",
+            "Ayelet Zurer",
+            "Robbie Kay",
+            "Ed Stoppard",
+            "Rachelle Lefevre",
+            "Themis Bazaka",
+            "Nina Dobrev",
+            "Diego Matamoros",
+            "Sarah Orenstein",
+            "Larissa Laskin",
+            "Daniel Kash",
+            "Yorgos Karamihos",
+            "Danai Skiadi",
+            "Monika Schurmann",
+            "Jordan Pettle",
+            "Vieslav Krystyan"
+          ],
+          "director" : "Jeremy Podeswa",
+          "guionist" : "Anne Michaels",
+          "score" : "6.9",
+          "summary" : "A child escapes from Poland during World War II and first heads to Greece before coming of age in Canada.",
+          "sinopsis" : "Fragments of past and present create a haunting kaleidoscope of words and emotions. Lyrical and complex, Jeremy Podeswa's adaptation of Anne Michael's beloved novel builds into a breathtaking mosaic as fragments of the past and present reveal the inner depths of a writer who can't let go of the ghosts that haunt him.Athos is directing an archaological dig in Nazi-occupied Poland when he discovers a little boy hiding. After witnessing the massacre of members of his family, seven-year-old Jakob does not know the fate of his beloved sister Bella - a mystery that will haunt him for the rest of his life. As Jakob grows into a man, he becomes progressively more consumed by his family's tragedy and his longing for Bella, coloring his relationships. A truly moving and unforgettable story."
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "kuW68YQBlDlURf2gy4R_",
+        "_score" : 12.1525,
+        "_source" : {
+          "title" : "La isla del diablo",
+          "year" : "1996",
+          "genres" : [
+            "Comedy",
+            "Drama"
+          ],
+          "actors" : [
+            "Baltasar Kormákur",
+            "Gísli Halldórsson",
+            "Sigurveig Jónsdóttir",
+            "Halldóra Geirharðsdóttir",
+            "Sveinn Geirsson",
+            "Guðmundur Ólafsson",
+            "Ingvar Sigurdsson",
+            "Magnús Ólafsson",
+            "Pálína Jónsdóttir",
+            "Saga Jónsdóttir",
+            "Arnljótur Sigurðsson",
+            "Gylfi Sigurðsson",
+            "Valgerður Sigurðardóttir",
+            "Óskar Jónasson",
+            "Ævar Örn Jósefsson",
+            "Helga Braga Jónsdóttir",
+            "Margrét Ákadóttir",
+            "Sigurður Sigurjónsson"
+          ],
+          "director" : "Friðrik Þór Friðriksson",
+          "guionist" : "Einar Kárason",
+          "score" : "7.1",
+          "summary" : "The story of families living in barracks, left by the US Army in Reykjavik at the conclusion of World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "reW68YQBlDlURf2g0aHg",
+        "_score" : 12.1525,
+        "_source" : {
+          "title" : "El libro negro",
+          "year" : "2006",
+          "genres" : [
+            "Drama",
+            "Thriller",
+            "War"
+          ],
+          "actors" : [
+            "Carice van Houten",
+            "Sebastian Koch",
+            "Thom Hoffman",
+            "Halina Reijn",
+            "Waldemar Kobus",
+            "Derek de Lint",
+            "Christian Berkel",
+            "Dolf de Vries",
+            "Peter Blok",
+            "Michiel Huisman",
+            "Ronald Armbrust",
+            "Frank Lammers",
+            "Matthias Schoenaerts",
+            "Johnny de Mol",
+            "Xander Straat",
+            "Diana Dobbelman",
+            "Rixt Leddy",
+            "Lidewij Mahler"
+          ],
+          "director" : "Paul Verhoeven",
+          "guionist" : "Gerard Soeteman",
+          "score" : "7.7",
+          "summary" : "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.",
+          "sinopsis" : """At the Kibbutz Stein in Israel in 1956, school teacher Rachel (Clarice van Houten) is reunited with Ronnie (Halina Reijn), a friend from The Hague during World War II. After Ronnie leaves, Rachel reflects on her adventures during the final days of the war.In 1944, Rachel hides from the Nazis in a farm in the Dutch countryside. In exchange for hiding her, they expect her to learn Bible verses. One day, a crippled Allied bomber drops its payload on the farmhouse, killing everyone except Rachel. Rob (Michiel Heisman), a young man from a neighboring farm, hides her in the family's greenhouse. That night, Van Gein (Peter Blok), a police officer, arrives to tell them that the Nazis know that Rachel is in the area and will hunt her down. He agrees to help Rachel and Rob escape to the Allied controlled southern part of Holland. Rachel visits her father's lawyer, Smaal (Dolf de Vries). He gives her enough money and jewels to live on for a year but warns her not to trust people so easily. Van Gein leads Rachel and Rob to a dock where other Jews wait to leave. Rachel is reunited with her parents and brother, who is recovering from an emergency appendectomy. Van Gein does not accompany the Jews on the boat trip. That evening, the boat is ambushed by a Nazi patrol boat. The Nazis immediately open fire; only Rachel survives the massacre. Before drifting down the river, she sees the Nazis loot the corpses.Rachel is found by Resistance fighters who smuggle her into The Hague by disguising her as a typhoid victim and placing her in a coffin that if properly "sealed" has sizable air holes. She is taken to a soup kitchen run by another member of the Resistance, Gerben Kuipers (Derek de Lint) and given the new name of Ellis de Vries. Eventually she is made a part of the Resistance's plans to smuggle in British guns and rations. The smugglers are led by Hans Akkermans (Thom Hoffman), an expert marksman. He and Ellis are to pose as husband and wife so the Nazis will not search their luggage on the train; the luggage is actually full of weaponry. But when the Nazi soldiers on the train clearly do intend to search all baggage, a new plan is needed. Ellis takes the bags and enters a private compartment occupied by SD Colonel Müntze (Sebastian Koch). The Nazis don't search Müntze's compartment. Ellis and Müntze are clearly attracted to each other and she accepts an offer to visit him at his office. Hans is clearly jealous.A truck carrying the British guns crashes in front of the soup kitchen. Kuiper's son, Tim (Ronald Armbrust) was driving and is arrested by the Gestapo. While the others go into hiding, Ellis arranges a meeting with Müntze hoping that she can persuade him to release Tim. Knowing he is an avid stamp collector, she takes some rare Dutch stamps to him. He invites her to a Nazi party. There she sees SS commandant Günter Franken (Waldemar Kobus) and recognizes him as the Nazi who led the ambush against the refugee boat. Although she is sickened at his sight, she manages to sing at the party later. She and Müntze return to his suite to make love. He intuits that she is Jewish from her dyed blond hair but has fallen in love with her. She accepts a job in his office and begins work the following day. There she meets Ronnie, who is Franken's secretary/sex partner. Franken gives them a report indicating that Tim has confessed everything and is to be executed, however, Müntze refuses to sign the execution order.Ellis sees Smaal at Nazi headquarters and learns that he and Müntze have negotiated a cease fire -- if the Resistance ceases its attacks against the Nazis, the Nazis will cease its violent reprisals against Dutch civilians. However, when a hidden microphone placed by Ellis in Franken's office reveals that Franken and Van Gein have been working together to kill and rob Jews trying to escape into Allied territory, a controversy amongst the Resistance fighters ensues. Van Gein is heard asking where Franken gets his information as to where the Jews are hiding, which Franken refuses to answer. Ellis wants vengeance for her family but Kuipers refuses to risk breaking the truce because his son will be killed. He betrays a level of anti-semitism when he asks if Jewish lives are any more important than Dutch lives. Behind Kuipers' back, Hans and several others agree to kidnap Van Gein and make it look like he went underground to protect himself. Hans tries to drug Van Gein with chloroform but it doesn't work because the medicine has passed its expiration date. When Van Gein nearly escapes, they are forced to kill him and dump his body in the canal. That night, Müntze confronts Ellis about her participation in the Resistance.Smaal procures the building plans for the Nazi headquarters from a friend at city hall; the building used to be a bank. A plan is devised to sneak into the building during a party in honor of Hitler's birthday. Using information given to him by Ellis, Müntze accuses Franken of hoarding property and valuables confiscated from Jews, a capital offense. When a search of Franken's safe comes up empty, Franken accuses Müntze of negotiating with terrorists -- the Resistance. Müntze is sentenced to death, and Franken announces that forty hostages will be executed in retaliation for the murder of Van Gein. The rescue effort will now be more complex, and Ellis insists that Müntze be one of those liberated because she is in love with him. That night, she leaves a coal chute door open for Hans and the others to enter, then goes to sing at the party. The Resistance members enter the building and free many of the prisoners. However, they are then ambushed by Nazi soldiers. Only Hans and one other Resistance member survive. Franken takes Ellis to his office and uses the hidden microphone, which he knows about, to make it seem like Ellis has been collaborating with him against the Resistance. Kuipers vows to kill her. But Franken already intends to, along with Müntze. That night, Ronnie uses her body as a diversion while another sympathetic soldier frees Ellis and Müntze from their cells.A few days later, the Germans surrender and World War II (in Europe) ends. Ellis and Müntze make their way back to The Hague. They go to see Smaal, who they believe to be the one who had betrayed the Resistance fighters and Jews to Franken. He denies it and claims to have proof of the real culprit which he intends to take to the Canadian military government controlling the city. However, before he can do so, an unknown assailant kills Smaal and his wife. Resistance fighters trap Müntze and Ellis, although she takes Smaal's notebook. Franken attempts to escape by boat with the loot taken from the Jews but Hans kills him.Muntze, in the custody of the Canadian army, is sentenced to death by his former commanding officer, General Käutner, who argues to his Canadian counterpart that Nazi officers still have the authority to punish their own officers for misconduct. Müntze is executed for his contact with Communists in the Resistance. Ellis is kept in a pen with other Dutch accused of collaborating with the Nazis. She and her fellow prisoners are treated deplorably by other local residents, an incident that is broken up by Hans, who berates his countrymen for acting like their Nazi occupiers during the war. Hans, who is now considered a hero of the Resistance, finds Ellis and takes her to his office. On the way, they distribute some chocolate bars to children. In his office, he shows her the money and valuables he took from Franken and reveals that Müntze was executed. Ellis breaks down in tears. Hans tells her that he is giving her a sedative but actually injects her with a lethal amount of insulin. He was the traitor in the Resistance and feels he must kill Ellis to cover his tracks. But when he goes to his window to accept the cheers of an adoring crowd, Ellis wolfs down a chocolate bar to counteract the insulin and escapes with Smaal's black book.She takes the evidence to Kuipers, who is at a nearby mass grave where the body of his son has been uncovered. They leave to find Hans, who is trying to escape the city with the Jewish money and valuables. They find him on a country road, using the same method that was used to smuggle Rachel into the Resistance -- the coffin with the hidden vent. Although he offers to give some of the money to them, Kuipers and Ellis seal off his air supply and let him suffocate to death. On the banks of the river, they debate what to do with the money.In 1956, at the Kibbutz Stein, which was founded with the Jewish money, Rachel and her family disappear behind the fences as armed Israeli soldiers arrive to guard it from an unseen enemy, marking the beginning of the Suez Crisis.In this movie appears Christian Berkel who will later play the role of Fritz Shimon Haber in Haber (2008)."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "xuW68YQBlDlURf2gx3MJ",
+        "_score" : 11.968939,
+        "_source" : {
+          "title" : "Función privada",
+          "year" : "1984",
+          "genres" : [
+            "Comedy"
+          ],
+          "actors" : [
+            "Michael Palin",
+            "Maggie Smith",
+            "Denholm Elliott",
+            "Richard Griffiths",
+            "Tony Haygarth",
+            "John Normington",
+            "Bill Paterson",
+            "Liz Smith",
+            "Alison Steadman",
+            "Jim Carter",
+            "Pete Postlethwaite",
+            "Eileen O'Brien",
+            "Rachel Davies",
+            "Reece Dinsdale",
+            "Philip Wileman",
+            "Charles McKeown",
+            "Susan Porrett",
+            "Donald Eccles"
+          ],
+          "director" : "Malcolm Mowbray",
+          "guionist" : "Alan Bennett",
+          "score" : "6.5",
+          "summary" : "In post-World War II Britain, food rationing continues, leading a married couple to become involved in the flourishing bacon black market.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "Z-W68YQBlDlURf2gx3e2",
+        "_score" : 11.968939,
+        "_source" : {
+          "title" : "Doce del patíbulo 4: Misión fatal",
+          "year" : "1988",
+          "genres" : [
+            "Action",
+            "Adventure",
+            "War"
+          ],
+          "actors" : [
+            "Telly Savalas",
+            "Ernest Borgnine",
+            "Hunt Block",
+            "Matthew Burton",
+            "Jeff Conaway",
+            "Alex Cord",
+            "Erik Estrada",
+            "Ernie Hudson",
+            "James Carroll Jordan",
+            "Ray 'Boom Boom' Mancini",
+            "John Matuszak",
+            "Natalija Nogulich",
+            "Heather Thomas",
+            "Anthony Valentine",
+            "Richard Yniguez",
+            "Branko Blace",
+            "Robert Bobinac",
+            "Budimar Sobat"
+          ],
+          "director" : "Lee H. Katzin",
+          "guionist" : "Nunnally Johnson",
+          "score" : "5.0",
+          "summary" : "A team of renegade soldiers in World War II tries to stop the creation of the Fourth Reich in the Middle East.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "6uW68YQBlDlURf2gyX6y",
+        "_score" : 11.968939,
+        "_source" : {
+          "title" : "Household Saints",
+          "year" : "1993",
+          "genres" : [
+            "Drama"
+          ],
+          "actors" : [
+            "Tracey Ullman",
+            "Vincent D'Onofrio",
+            "Lili Taylor",
+            "Judith Malina",
+            "Michael Rispoli",
+            "Victor Argo",
+            "Michael Imperioli",
+            "Rachael Bella",
+            "Illeana Douglas",
+            "Joe Grifasi",
+            "Dale Carman",
+            "John Di Benedetto",
+            "Marie DeCicco",
+            "Nancy Marie",
+            "Sam Josepher",
+            "Elizabeth Bracco",
+            "Jessica DiCicco",
+            "Mabel McKeown"
+          ],
+          "director" : "Nancy Savoca",
+          "guionist" : "Francine Prose",
+          "score" : "6.9",
+          "summary" : "Unsettling drama about three generations of Italian-American women struggling to get by in post-World War II New York's Little Italy.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "fOW68YQBlDlURf2gy4fx",
+        "_score" : 11.968939,
+        "_source" : {
+          "title" : "The Long Way Home",
+          "year" : "1997",
+          "genres" : [
+            "Documentary",
+            "History",
+            "War"
+          ],
+          "actors" : [
+            "Morgan Freeman",
+            "Israel Lau",
+            "Livia Shacter",
+            "Abraham Klausner",
+            "Winston Churchill",
+            "Ernest Bevin",
+            "Harry S. Truman",
+            "Clement Attlee",
+            "Dwight D. Eisenhower",
+            "George S. Patton",
+            "Herbert Friedman",
+            "Hermann Göring",
+            "Ruth Gruber",
+            "Harold Katz",
+            "James Byrnes",
+            "Yael Danieli",
+            "Abba Eban",
+            "Andrei Gromyko"
+          ],
+          "director" : "Mark Jonathan Harris",
+          "guionist" : "Mark Jonathan Harris",
+          "score" : "7.6",
+          "summary" : "The story of the post World War II Jewish refugee situation from liberation to the establishment of the modern state of Israel.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "ueW68YQBlDlURf2gzY6A",
+        "_score" : 11.968939,
+        "_source" : {
+          "title" : "Goodnight, Mister Tom",
+          "year" : "1998",
+          "genres" : [
+            "Drama",
+            "Family",
+            "War"
+          ],
+          "actors" : [
+            "John Thaw",
+            "Nick Robinson",
+            "Annabelle Apsion",
+            "Thomas Orange",
+            "William Armstrong",
+            "Geoffrey Beevers",
+            "Mossie Smith",
+            "Peter England",
+            "Ivan Berry",
+            "Harry Capehorn",
+            "Merelina Kendall",
+            "Marlene Sidaway",
+            "John Cater",
+            "Denyse Alexander",
+            "Avril Elgar",
+            "Michael Cronin",
+            "Pauline Turner",
+            "Thomas Russell"
+          ],
+          "director" : "Jack Gold",
+          "guionist" : "Brian Finch",
+          "score" : "7.8",
+          "summary" : "A shy and quiet World War II evacuee is housed by a disgruntled old man, and they soon develop a close bond.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "LeW68YQBlDlURf2gzpFJ",
+        "_score" : 11.949695,
+        "_source" : {
+          "title" : "El exorcista: El comienzo",
+          "year" : "2004",
+          "genres" : [
+            "Horror",
+            "Mystery",
+            "Thriller"
+          ],
+          "actors" : [
+            "Stellan Skarsgård",
+            "Izabella Scorupco",
+            "James D'Arcy",
+            "Remy Sweeney",
+            "Julian Wadham",
+            "Andrew French",
+            "Ralph Brown",
+            "Ben Cross",
+            "David Bradley",
+            "Alan Ford",
+            "Antonie Kamerling",
+            "Eddie Osei",
+            "Israel Oyelumade",
+            "Patrick O'Kane",
+            "James Bellamy",
+            "Cecilia Amati",
+            "Matti Ristinen",
+            "Lydia Darly"
+          ],
+          "director" : "Renny Harlin",
+          "guionist" : "William Peter Blatty",
+          "score" : "5.1",
+          "summary" : "Years before Father Lankester Merrin helped save Regan MacNeil's soul, he first encounters the demon Pazuzu in East Africa. This is the tale of Father Merrin's initial battle with Pazuzu and the rediscovery of his faith.",
+          "sinopsis" : """The plot revolves around the crisis of faith suffered by Father Lankester Merrin following the horrific events he witnessed during World War II. Many years before the events in The Exorcist, the young Father Merrin (played by Skarsgård, who played the same part in Dominion: Prequel to the Exorcist) travels to East Africa. Merrin has taken a sabbatical from the Church and devoted himself to history and archaeology as he struggles with his shattered faith. He is haunted especially by an incident in a small village in occupied Holland during World War II, where he served as parish priest: near the end of the war, a sadistic Nazi SS commander, in retaliation for the murder of a German trooper, forces Merrin to participate in arbitrary executions in order to save a full village from slaughter.After World War II, Merrin is an archaeologist in Cairo, when he is approached by a collector of antiquities who asks him to come to a British excavation in the Turkana region of Kenya. This dig is excavating a Christian Byzantine church built circa 500 A.D. long before Christianity had reached that region of Africa. The collector asks Merrin to recover an ancient relic of a demon before the British can find it. Merrin agrees and travels to the dig site. He is joined by Father Francis, a Vatican scholar who was on his way to do missionary work in East Africa but was diverted by the Vatican to ensure the church is not desecrated. Upon arriving at the site, Merrin meets Major Granville, the British military officer in charge of the dig. Merrin also meets the chief excavator, a brutish man with visible boils on his face. And he meets Sarah, a doctor who spent time in a concentration camp during World War II and is haunted by what happened to her there. Merrin's translator and guide is Chuma. In addition, Merrin learns that the diggers are disappearing or leaving in droves because the local tribemen fear the church is cursed. Merrin witnesses a digger inexplicably experience a seizure.Merrin visits the dig site. Only the dome is uncovered; the rest of the church is buried beneath the earth. Merrin discovers that the church is in perfect condition, as though it had been buried immediately after its construction were completed. Merrin, Francis, and Chuma enter the church through the dome. They find it is near-pristine condition, but there are two oddities. First, all of the statues of the angels holding weapons are pointing the spears downward, whereas it is conventional for statues of angels to either have no weapons or to point them triumphantly toward heaven. Merrin and Francis deduce the sculptors were trying to depict the angels restraining something that was beneath the church. The second disturbing discovery is that someone has vandalized the church by ripping the enormous crucifix from its place on the altar and suspending it with Christ on the cross in an upside-down position, which is considered a desecration.Merrin is determined to learn more about the archeological dig and asks to consult with the lead archeologist, Monsieur Bession. Sarah tells Merrin that Bession went insane three weeks earlier and was transferred to a mental hospital in Nairobi. Merrin visits Bession's tent at the dig site and sees dozens of drawings of the same thing, the demon artifact the collector had asked Merrin to find. Merrin then travels to Nairobi to visit Bession. But when he enters Bession's room, he discovers Bession has carved a swastika on his chest and is speaking through demonic possession in the voice of the sadistic SS commander who tormented Merrin during the war. As Merrin registers these events, Bession slashes his own throat after saying he was "free." Father Gionetti, warden of the asylum, speculates that Bession was not possessed but rather "touched" by a demon, which drove him mad and eventually to suicide. Merrin is very skeptical, but before he returns to the dig site, Father Gionetti gives him the volume of Roman rituals to use in exorcism, although Merrin claims he will never use them.Upon returning to the village, strange events continue. A local boy is attacked and killed by hyenas that seem to continuously stalk the dig, night and day. His younger brother, Joseph, enters a fugue state after watching his brother ripped to pieces. Merrin begins to suspect that something evil lies in the church and is infecting the region. There are stories of an epidemic that wiped out an entire village. However, when Merrin, growing suspicious of these rumors, digs up one of the graves of the supposed victims of this plague, he discovers it is empty. Meanwhile, the evil grows, turning people against each other and resulting in violence, atrocities, and more bloodshed.Father Francis reveals to Merrin that the builders of the church never meant it to be recorded in Vatican documents, however, a vague reference to it was recorded, leading to its subsequent discoveries in the 19th and 20th centuries. Francis also reveals that the church stands on the supposed site where Satan fell to earth after the war in heaven, and it was constructed by early Christians in an attempt to purify the evil that resides there.Beneath the church lies the ruins of an even older temple but not a Christian one. Rather, in the ruins under the church, Merrin and his allies find demonic icons, and other signs of evil and Satanism. This land is where he first encounters the demon that calls itself Pazuzu, which he will encounter again in The Exorcist. This is the demon that "brushed" Bession (driving him insane) and Joseph (making him ill).At the end of the movie, the dig's doctor, Sarah, turns out to be the possessed individual and has the demon exorcised from her in the tunnels below the church but dies. Dr. Merrin and Joseph emerge from the church, (once again buried in sand) and history has repeated itself. 50 (and 1500) years ago, everyone at the site was killed by an evil presence from the church, except for one priest. Now, only Father Merrin and the little boy are left as the British soldiers and the local tribes have annihilated each other. Merrin returns to Rome and meets with the collector at a cafe, explaining he was unable to find the relic, the collector replies, "But you found something....Didn't you?"... As he leaves, Merrin is revealed to be wearing a collar and is now a priest again, having regained his faith in God, after defeating the demon with holy exorcism rituals."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "ZeW68YQBlDlURf2gxW0l",
+        "_score" : 11.790841,
+        "_source" : {
+          "title" : "El diario de Ana Frank",
+          "year" : "1980",
+          "genres" : [
+            "Biography",
+            "Drama"
+          ],
+          "actors" : [
+            "Maximilian Schell",
+            "Joan Plowright",
+            "James Coco",
+            "Doris Roberts",
+            "Clive Revill",
+            "Scott Jacoby",
+            "Melissa Gilbert",
+            "Melora Marshall",
+            "Erik Holland",
+            "Anne Wyndham",
+            "Patricia Ancira",
+            "Susanne Severeid"
+          ],
+          "director" : "Boris Sagal",
+          "guionist" : "Frances Goodrich",
+          "score" : "6.7",
+          "summary" : "During World War II, a teenage Jewish girl named Anne Frank and her family are forced into hiding in the Nazi-occupied Netherlands.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "DuW68YQBlDlURf2gyX5c",
+        "_score" : 11.790841,
+        "_source" : {
+          "title" : "Twist",
+          "year" : "1992",
+          "genres" : [
+            "Documentary",
+            "History",
+            "Music"
+          ],
+          "actors" : [
+            "Cholly Atkins",
+            "Frankie Avalon",
+            "Hank Ballard",
+            "Gary U.S. Bonds",
+            "Chubby Checker",
+            "Joey Dee",
+            "Fats Domino",
+            "Joe Fusco",
+            "Buddy Holly",
+            "Gladys Horton",
+            "Susan Horton",
+            "Little Richard",
+            "Mama Lu Parks",
+            "Elvis Presley",
+            "Dee Dee Sharp"
+          ],
+          "director" : "Ron Mann",
+          "guionist" : "Cholly Atkins",
+          "score" : "7.6",
+          "summary" : "The history of post-World War II popular dance up to the mid-sixties is explored with the focus being on the Twist.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "aOW68YQBlDlURf2gyoJK",
+        "_score" : 11.790841,
+        "_source" : {
+          "title" : "Anne no nikki",
+          "year" : "1995",
+          "genres" : [
+            "Animation",
+            "Biography",
+            "Drama"
+          ],
+          "actors" : [
+            "Rena Takahashi",
+            "Gô Katô",
+            "Fumie Kashiyama",
+            "Seiko Nakano",
+            "Jirô Sakagami",
+            "Tsuyoshi Kusanagi",
+            "Yûsuke Takita",
+            "Yoshie Taira",
+            "Tetsuko Kuroyanagi",
+            "Takurô Nakayoshi",
+            "Naomi Sekita",
+            "Gô Endô",
+            "Tôru Takeuchi",
+            "Keishi Kawaguchi",
+            "Hiroyuki Kawada",
+            "Riki Kagami",
+            "Tetsuo Maekawa"
+          ],
+          "director" : "Akinori Nagaoka",
+          "guionist" : "Anne Frank",
+          "score" : "6.7",
+          "summary" : "During World War II, a teenage Jewish girl named Anne Frank and her family are forced into hiding in the Nazi-occupied Netherlands.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "-eW68YQBlDlURf2gyoOV",
+        "_score" : 11.790841,
+        "_source" : {
+          "title" : "Un paseo por las nubes",
+          "year" : "1995",
+          "genres" : [
+            "Drama",
+            "Romance"
+          ],
+          "actors" : [
+            "Keanu Reeves",
+            "Aitana Sánchez-Gijón",
+            "Anthony Quinn",
+            "Giancarlo Giannini",
+            "Angélica Aragón",
+            "Evangelina Elizondo",
+            "Freddy Rodríguez",
+            "Debra Messing",
+            "Febronio Covarrubias",
+            "Roberto Huerta",
+            "Juan Jiménez",
+            "Ismael Gallegos",
+            "Alejandra Flores",
+            "Gema Sandoval",
+            "Don Amendolia",
+            "Gregory Paul Martin",
+            "Mary Pat Gleason",
+            "John Dennis Johnston"
+          ],
+          "director" : "Alfonso Arau",
+          "guionist" : "Robert Mark Kamen",
+          "score" : "6.7",
+          "summary" : "A married soldier returning from World War II poses as a pregnant woman's husband to save her from her father's anger and honor.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "YOW68YQBlDlURf2gz5QK",
+        "_score" : 11.790841,
+        "_source" : {
+          "title" : "Windtalkers",
+          "year" : "2002",
+          "genres" : [
+            "Action",
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Nicolas Cage",
+            "Adam Beach",
+            "Peter Stormare",
+            "Noah Emmerich",
+            "Mark Ruffalo",
+            "Brian Van Holt",
+            "Martin Henderson",
+            "Roger Willie",
+            "Frances O'Connor",
+            "Christian Slater",
+            "Jason Isaacs",
+            "William Morts",
+            "Cameron Thor",
+            "Kevin Cooney",
+            "Holmes Osborne",
+            "Keith Campbell",
+            "Clayton J. Barber",
+            "Scott Atkinson"
+          ],
+          "director" : "John Woo",
+          "guionist" : "John Rice",
+          "score" : "6.1",
+          "summary" : "Two U.S. Marines in World War II are assigned to protect Navajo Marines, who use their native language as an unbreakable radio cypher.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "bOW68YQBlDlURf2gz5QK",
+        "_score" : 11.790841,
+        "_source" : {
+          "title" : "Los demonios en mi puerta",
+          "year" : "2000",
+          "genres" : [
+            "Comedy",
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Wen Jiang",
+            "Kenya Sawada",
+            "Hongbo Jiang",
+            "Teruyuki Kagawa",
+            "Ding Yuan",
+            "Zhijun Cong",
+            "Zi Xi",
+            "Haibin Li",
+            "Weidong Cai",
+            "Lianmei Chen",
+            "Yoshimoto Miyaji",
+            "Qiang Chen",
+            "David Wu",
+            "Shu Chen",
+            "Jianquan Shi",
+            "Katsuhiro Nagano",
+            "Ryosuke Uomi",
+            "Yunshen Bai"
+          ],
+          "director" : "Wen Jiang",
+          "guionist" : "Wen Jiang",
+          "score" : "8.2",
+          "summary" : "Villagers in World War II China are unsure what to do with the two enemy prisoners who have been left in their care.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "bOW68YQBlDlURf2g1bOB",
+        "_score" : 11.790841,
+        "_source" : {
+          "title" : "The Rape of Europa",
+          "year" : "2006",
+          "genres" : [
+            "Documentary",
+            "History",
+            "War"
+          ],
+          "actors" : [
+            "Joan Allen",
+            "E. Randol Schoenberg",
+            "Maria Altmann",
+            "Wolfgang Fischer",
+            "Jonathan Petropoulos",
+            "Kenneth Lindsay",
+            "Lynn Nicholas",
+            "Nancy Yeide",
+            "Gottfried Toman",
+            "S. Laine Faison",
+            "Andrej Kamienski",
+            "Maria Osterwa Czekaj",
+            "Monika Kuhnke",
+            "Count Adam Zamoyski",
+            "Vincent Pomarède",
+            "Alain Pasquier",
+            "Frédérique Hébrard",
+            "Claude Delibes"
+          ],
+          "director" : "Richard Berge",
+          "guionist" : "Bonni Cohen",
+          "score" : "7.7",
+          "summary" : "The story of Nazi Germany's plundering of Europe's great works of art during World War II and Allied efforts to minimize the damage.",
+          "sinopsis" : "\"The Rape of Europa\" uses interviews with eyewitnesses and historians and newsreel footage to show how heroic Europeans, Russians, and Americans worked to save the art of Europe during WWII. The Nazis stole thousands of pieces of art and destroyed many others. But many individuals evacuated art and the American \"Monuments Men\" helped map out air strikes to avoid the destruction of many masterpieces. It is harrowing and moving to see art restored to the families of Jewish victims of the Holocaust."
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "8-W68YQBlDlURf2gz5QK",
+        "_score" : 11.686991,
+        "_source" : {
+          "title" : "Rodando la guerra",
+          "year" : "2000",
+          "genres" : [
+            "Documentary"
+          ],
+          "actors" : [
+            "Tom Hanks",
+            "Stephen Ambrose",
+            "Russ Meyer",
+            "Walter Rosenblum",
+            "Joseph Longo",
+            "Doug Wood",
+            "Arthur Mainzer",
+            "Doug Morrell",
+            "Fred Bornet",
+            "Harold Kempe",
+            "Daniel A. McGovern",
+            "Norm Hatch",
+            "Johnathan Ercole",
+            "Edward Montagne",
+            "David L. Quaid",
+            "Richard Brooks",
+            "Carl Voelker",
+            "Reuben Weiner"
+          ],
+          "director" : "Richard Schickel",
+          "guionist" : "Richard Schickel",
+          "score" : "7.9",
+          "summary" : "Produced by Steven Spielberg and presented by Tom Hanks this documentary tells how war photographers faced the horrors that looked both in Europe and in the Pacific during World War II .",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "LeW68YQBlDlURf2gzIlT",
+        "_score" : 11.617965,
+        "_source" : {
+          "title" : "Té con Mussolini",
+          "year" : "1999",
+          "genres" : [
+            "Comedy",
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Maggie Smith",
+            "Judi Dench",
+            "Joan Plowright",
+            "Cher",
+            "Lily Tomlin",
+            "Baird Wallace",
+            "Charlie Lucas",
+            "Massimo Ghini",
+            "Paolo Seganti",
+            "Claudio Spadaro",
+            "Mino Bellei",
+            "Paul Chequer",
+            "Tessa Pritchard",
+            "Michael Williams",
+            "Paula Jacobs",
+            "Bettine Milne",
+            "Hazel Parsons",
+            "Helen Stirling"
+          ],
+          "director" : "Franco Zeffirelli",
+          "guionist" : "John Mortimer",
+          "score" : "6.9",
+          "summary" : "An orphaned Italian boy is raised amongst a circle of British and American women living in Mussolini's Italy before and during World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "peW68YQBlDlURf2gz5MK",
+        "_score" : 11.617965,
+        "_source" : {
+          "title" : "La mandolina del capitán Corelli",
+          "year" : "2001",
+          "genres" : [
+            "Drama",
+            "Music",
+            "Romance"
+          ],
+          "actors" : [
+            "Nicolas Cage",
+            "Penélope Cruz",
+            "John Hurt",
+            "Christian Bale",
+            "Irene Papas",
+            "Gerasimos Skiadaressis",
+            "Aspasia Kralli",
+            "Mihalis Giannatos",
+            "Dimitris Kaberidis",
+            "Pietro Sarubbi",
+            "Viki Maragaki",
+            "Joanna-Daria Adraktas",
+            "Ira Tavlaridis",
+            "Katerina Didaskalou",
+            "Aimilios Heilakis",
+            "Nikos Karathanos",
+            "Antonis Antoniou",
+            "Giorgos Kotanidis"
+          ],
+          "director" : "John Madden",
+          "guionist" : "Shawn Slovo",
+          "score" : "5.9",
+          "summary" : "When a fisherman leaves to fight with the Greek army during World War II, his fiancée falls in love with the local Italian commander.",
+          "sinopsis" : "Cage starts as Captain Antonio Corelli, an Italian officer whose company of soldiers is sent to Cephallonia, a beautiful Greek island untouched by war. A free spirit with a passion for music and romance, Corelli is enchanted by Cephallonia and its people -- especially Pelagia (Cruz), the gorgeous, proud daughter of the island's doctor (John Hurt). Engaged to a local fisherman (Christian Bale), Pelagia resists Corelli's attentions, but the kind and charming captain weakens for her defenses. Surrendering their hearts, Corelli and Pelagia begin a heated affair. But before their love can grow, the war crashes on Cephallonia's shores, forcing Corelli and Pelagia to make dangerous sacrifices for country and homeand risk losing each other forever."
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "TeW68YQBlDlURf2gz5QK",
+        "_score" : 11.617965,
+        "_source" : {
+          "title" : "Charlotte Gray",
+          "year" : "2001",
+          "genres" : [
+            "Drama",
+            "Romance",
+            "Thriller"
+          ],
+          "actors" : [
+            "Cate Blanchett",
+            "James Fleet",
+            "Abigail Cruttenden",
+            "Charlotte McDougall",
+            "Rupert Penry-Jones",
+            "Robert Hands",
+            "Tom Goodman-Hill",
+            "Michael Fitzgerald",
+            "Hugh Ross",
+            "Martin Oldfield",
+            "Nicholas Farrell",
+            "Mike Burnside",
+            "Damian Myerscough",
+            "Miranda Bell",
+            "Angus Wright",
+            "Lewis Crutch",
+            "Mathew Plato",
+            "Billy Crudup"
+          ],
+          "director" : "Gillian Armstrong",
+          "guionist" : "Sebastian Faulks",
+          "score" : "6.4",
+          "summary" : "A young Scottish woman joins the French Resistance during World War II to rescue her Royal Air Force boyfriend who is lost in France.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "KuW68YQBlDlURf2g0qQ4",
+        "_score" : 11.617965,
+        "_source" : {
+          "title" : "Banderas de nuestros padres",
+          "year" : "2006",
+          "genres" : [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "actors" : [
+            "Ryan Phillippe",
+            "Barry Pepper",
+            "Joseph Cross",
+            "Jesse Bradford",
+            "Adam Beach",
+            "John Benjamin Hickey",
+            "John Slattery",
+            "Jamie Bell",
+            "Paul Walker",
+            "Robert Patrick",
+            "Neal McDonough",
+            "Melanie Lynskey",
+            "Tom McCarthy",
+            "Chris Bauer",
+            "Judith Ivey",
+            "Myra Turley",
+            "Benjamin Walker",
+            "Alessandro Mastrobuono"
+          ],
+          "director" : "Clint Eastwood",
+          "guionist" : "William Broyles Jr.",
+          "score" : "7.1",
+          "summary" : "The life stories of the six men who raised the flag at the Battle of Iwo Jima, a turning point in World War II.",
+          "sinopsis" : """There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. "Flags of Our Fathers" is the story of three of the six surviving servicemen, John "Doc" Bradley (Ryan Phillippe), Pvt. Rene Gagnon (Jesse Bradford), and Pvt. Ira Hayes (Adam Beach), who fought in the battle to take Iwo Jima. The picture became one of the most famous images of the U.S. winning a battle during WWII. However, the battle for Iwo Jima raged on for another month with three of the marines being killed in action. The other three servicemen were taken out of battle and flown back to the states. The photo made these men heroes, and the government used these new heroes to promote the selling of war bonds on the War Bond Tour. The three men did not believe they were heroes, even though the American public did. Douglas Young (the-movie-guy)"""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "o-W68YQBlDlURf2g1bEf",
+        "_score" : 11.617965,
+        "_source" : {
+          "title" : "Jackboots on Whitehall",
+          "year" : "2010",
+          "genres" : [
+            "Animation",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "actors" : [
+            "Hugh Fraser",
+            "Alexander Armstrong",
+            "Rory McHenry",
+            "Ewan McGregor",
+            "Stephen Merchant",
+            "Richard E. Grant",
+            "Tom Wilkinson",
+            "Tobias Menzies",
+            "Caroline Duff",
+            "Charlotte Moore",
+            "Rosamund Pike",
+            "Martyn Ellis",
+            "James Hicks",
+            "Pam Ferris",
+            "Brian Conley",
+            "Richard Griffiths",
+            "Richard O'Brien",
+            "Dominic West"
+          ],
+          "director" : "Edward McHenry",
+          "guionist" : "Rory McHenry",
+          "score" : "5.2",
+          "summary" : "A satirical alternative history of World War II where the Nazis seize London and England must band together to prevent a full-on invasion.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "u-W68YQBlDlURf2gx3Rf",
+        "_score" : 11.450085,
+        "_source" : {
+          "title" : "Masacre (Ven y mira)",
+          "year" : "1985",
+          "genres" : [
+            "Drama",
+            "Thriller",
+            "War"
+          ],
+          "actors" : [
+            "Aleksey Kravchenko",
+            "Olga Mironova",
+            "Liubomiras Laucevicius",
+            "Vladas Bagdonas",
+            "Jüri Lumiste",
+            "Viktors Lorencs",
+            "Kazimir Rabetsky",
+            "Evgeniy Tilicheev",
+            "G. Velts",
+            "V. Vasilyev",
+            "Aleksandr Berda",
+            "Vasiliy Domrachyov",
+            "Nina Evdokimova",
+            "Igor Gnevashev",
+            "Adolf Hitler",
+            "Valery Kravchenko",
+            "Evgeniy Kryzhanovskiy",
+            "N. Lisichenok"
+          ],
+          "director" : "Elem Klimov",
+          "guionist" : "Ales Adamovich",
+          "score" : "8.4",
+          "summary" : "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "CeW68YQBlDlURf2gyHpd",
+        "_score" : 11.450085,
+        "_source" : {
+          "title" : "El gángster y la corista",
+          "year" : "1990",
+          "genres" : [
+            "Crime",
+            "Drama",
+            "Romance"
+          ],
+          "actors" : [
+            "Emily Lloyd",
+            "Kiefer Sutherland",
+            "John Lahr",
+            "Liz Fraser",
+            "Harry Fowler",
+            "Keith Allen",
+            "Patsy Kensit",
+            "Angela Morant",
+            "John Surman",
+            "Janet Dale",
+            "John Dair",
+            "Stephen Hancock",
+            "Hugh Millais",
+            "Harry Jones",
+            "Alexandra Pigg",
+            "John Junkin",
+            "Gerard Horan",
+            "Colin Bruce"
+          ],
+          "director" : "Bernard Rose",
+          "guionist" : "David Yallop",
+          "score" : "5.0",
+          "summary" : "During World War II, an American serviceman in London decides to impress his English girlfriend by acting as an American gangster, which soon turns deadly.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "gOW68YQBlDlURf2gyX-y",
+        "_score" : 11.450085,
+        "_source" : {
+          "title" : "La lista de Schindler",
+          "year" : "1993",
+          "genres" : [
+            "Biography",
+            "Drama",
+            "History"
+          ],
+          "actors" : [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley",
+            "Caroline Goodall",
+            "Jonathan Sagall",
+            "Embeth Davidtz",
+            "Malgorzata Gebel",
+            "Shmuel Levy",
+            "Mark Ivanir",
+            "Béatrice Macola",
+            "Andrzej Seweryn",
+            "Friedrich von Thun",
+            "Krzysztof Luft",
+            "Harry Nehring",
+            "Norbert Weisser",
+            "Adi Nitzan",
+            "Michael Schneider",
+            "Miri Fabian"
+          ],
+          "director" : "Steven Spielberg",
+          "guionist" : "Thomas Keneally",
+          "score" : "9.0",
+          "summary" : "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "sinopsis" : """The relocation of Polish Jews from surrounding areas to Krakow begins in late 1939, shortly after the outbreak of World War II, when the German Army defeats the Polish Army in three weeks. Oskar Schindler (Liam Neeson), a successful businessman, arrives from Czechoslovakia in hopes of using the abundant cheap labour force of Jews to manufacture enamelware for the German military. Schindler, an opportunistic member of the Nazi party, lavishes bribes upon the army and SS officials in charge of procurement. Sponsored by the military, Schindler acquires a factory for the production of army mess kits and cooking paraphernalia. Not knowing much about how to properly run such an enterprise, he gains a contact in Itzhak Stern (Ben Kingsley), a functionary in the local Judenrat (Jewish Council) who has contacts with the now-underground Jewish business community in the ghetto. They loan him the money for the factory in return for a small share of products produced (for trade on the black market). Opening the factory, Schindler pleases the Nazis and enjoys his new-found wealth and status as "Herr Direktor," while Stern handles all administration. Stern suggests Schindler hire Jews instead of Poles because they cost less (the Jews themselves get nothing; the wages are paid to the Reich). Workers in Schindler's factory are allowed outside the ghetto, and Stern falsifies documents to ensure that as many people as possible are deemed "essential" by the Nazi bureaucracy, which saves them from being transported to concentration camps, or even being killed.Amon Göth (Ralph Fiennes) arrives in Krakow to initiate construction of a labor camp nearby, Paszów. The SS soon liquidates the Krakow ghetto, sending in hundreds of troops to empty the cramped rooms and shoot anyone who protests, is uncooperative, elderly, or infirmed, or for no reason at all. Schindler watches the massacre from the hills overlooking the area, and is profoundly affected. He nevertheless is careful to befriend Göth and, through Stern's attention to bribery, he continues to enjoy the SS's support and protection. The camp is built outside the city at Paszów. During this time, Schindler bribes Göth into allowing him to build a sub-camp for his workers, with the motive of keeping them safe from the depredations of the guards. Eventually, an order arrives from Berlin commanding Göth to exhume and destroy all bodies of those killed in the Krakow ghetto, dismantle Paszów, and to ship the remaining Jews to Auschwitz. Schindler prevails upon Göth to let him keep "his" workers so that he can move them to a factory in his old home of Zwittau-Brinnlitz, in Moravia -- away from the "final solution" now fully under way in occupied Poland. Göth acquiesces, charging a certain amount for each worker. Schindler and Stern assemble a list of workers that should keep them off the trains to Auschwitz."Schindler's List" comprises these "skilled" inmates, and for many of those in Paszów, being included means the difference between life and death. Schindler also plays a game of high card draw for one worker in particular, Helen Hirsch, who'd been serving as Göth's housekeeper and had been a victim of his continual abuse. Göth is reluctant, hoping to run away with her but knowing that such an action would result in his death as well as hers. He also floats the idea of simply executing her but finally decides to play Schindler for Helen's life. Helen is among those who board the train to Brinnlitz. All of the men on Schindler's list arrive safely at the new site, with the exception to the train carrying the women and the children, which is accidentally redirected to Auschwitz. There, the women are directed to what they believe is a gas chamber; after a harrowing experience where their hair is crudely cut off and they are forced to strip, they see only water falling from the showers. The day after, the women are shown waiting in line for work. In the meantime, Schindler had rushed immediately to Auschwitz to solve the problem and to get the women out of Auschwitz; to this end he bribes the camp commander, Rudolf Höss (Hans-Michael Rehberg), with a cache of diamonds so that he is able to spare all the women and the children. However, a last problem arises just when all the women are boarding the train because several SS officers attempt to hold some children back and prevent them from leaving. Schindler, there to personally oversee the boarding, steps in and is successful in obtaining from the officers the release of the children. Once the Schindler women arrive in Zwittau-Brinnlitz, Schindler institutes firm controls on the Nazi guards assigned to the factory; summary executions are forbidden, abuse of the workers is as well and the Nazi guards are not allowed on the factory floor. Schindler also permits the Jews to observe the Sabbath, and spends much of his fortune acquired in Poland bribing Nazi officials. In his home town, he surprises his wife while she's in church during mass, and tells her that she is the only woman in his life (despite having been shown previously to be a womanizer). She goes with him to the factory to assist him. He runs out of money just as the German army surrenders, ending the war in Europe.As a German Nazi and self-described "profiteer of slave labor," Schindler must flee the oncoming Soviet Red Army. After dismissing the Nazi guards to return to their families, he packs a car in the night, and bids farewell to his workers. They give him a letter explaining he is not a criminal to them, together with a ring engraved with the Talmudic quotation, "He who saves the life of one man, saves the world entire." Schindler is touched but deeply distraught, feeling he could've done more to save many more lives. He leaves with his wife during the night, dressed in Polish prisoner clothes, posing as refugees. The Schindler Jews, having slept outside the factory gates through the night, are awakened by sunlight the next morning. A Soviet dragoon arrives and announces to the Jews that they have been liberated by the Red Army. The Jews walk to a nearby town in search of food. A title card informs us that Schindler was declared a "righteous person" by the Yad Vashem of Jerusalem, and himself planted a tree on the Avenue of the Righteous in Israel, which still grows to this day. The fate of Göth is also shown; he was captured near the German town of Bad Tolz and taken back to Paszów where, defiant to the end and announcing his allegiance to Hitler, is hanged for crimes against humanity.As the surviving Schindler Jews walk abreast, the frame changes to another of the Schindler Jews in the present day (in color) at the grave of Oskar Schindler in Israel. The film ends with a procession of now-aged Jews who worked in Schindler's factory, each of whom reverently sets a stone on his grave. The actors portraying the major characters walk hand-in-hand with the people they portrayed, also placing stones on Schindler's grave as they pass. Actor Ben Kingsley escorts the late Itzhak Stern's wife and Caroline Goodall escorts Schindler's wife in her wheelchair. The audience learns that the survivors and descendants of the approximately 1,100 Jews sheltered by Schindler now number over 6,000. The Jewish population of Poland, once numbering in the millions, was at the time of the film's release approximately 4,000. In the final scene, a man (Neeson himself, though his face is not visible) places a pair of roses on the grave, and stands contemplatively over it."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "zuW68YQBlDlURf2gy4fx",
+        "_score" : 11.450085,
+        "_source" : {
+          "title" : "Camino al paraíso",
+          "year" : "1997",
+          "genres" : [
+            "Drama",
+            "History",
+            "War"
+          ],
+          "actors" : [
+            "Glenn Close",
+            "Frances McDormand",
+            "Pauline Collins",
+            "Cate Blanchett",
+            "Jennifer Ehle",
+            "Julianna Margulies",
+            "Wendy Hughes",
+            "Johanna ter Steege",
+            "Elizabeth Spriggs",
+            "Pamela Rabe",
+            "Clyde Kusatsu",
+            "Stan Egi",
+            "David Chung",
+            "Sab Shimono",
+            "Penne Hackforth-Jones",
+            "Pauline Chan",
+            "Lisa Hensley",
+            "Susie Porter"
+          ],
+          "director" : "Bruce Beresford",
+          "guionist" : "David Giles",
+          "score" : "6.8",
+          "summary" : "A group of women who are imprisoned on the island of Sumatra by the Japanese during World War II use music to relieve their misery.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "5-W68YQBlDlURf2gzIhT",
+        "_score" : 11.450085,
+        "_source" : {
+          "title" : "Ilusiones de un mentiroso",
+          "year" : "1999",
+          "genres" : [
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Robin Williams",
+            "Hannah Taylor Gordon",
+            "Éva Igó",
+            "István Bálint",
+            "Justus von Dohnányi",
+            "Kathleen Gati",
+            "Bob Balaban",
+            "Alan Arkin",
+            "Michael Jeter",
+            "Mark Margolis",
+            "János Gosztonyi",
+            "Liev Schreiber",
+            "Armin Mueller-Stahl",
+            "Ádám Rajhona",
+            "Antal Leisen",
+            "Mathieu Kassovitz",
+            "Péter Rudolf",
+            "Jan Becker"
+          ],
+          "director" : "Peter Kassovitz",
+          "guionist" : "Jurek Becker",
+          "score" : "6.5",
+          "summary" : "During World War II, an ordinary inhabitant of a ghetto fakes news about Allied offensives to inspire hope for other victims of the Nazi regime.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "E-W68YQBlDlURf2g1bOB",
+        "_score" : 11.450085,
+        "_source" : {
+          "title" : "Valkiria",
+          "year" : "2008",
+          "genres" : [
+            "Drama",
+            "History",
+            "Thriller"
+          ],
+          "actors" : [
+            "Tom Cruise",
+            "Bill Nighy",
+            "Carice van Houten",
+            "Kenneth Branagh",
+            "Tom Wilkinson",
+            "Thomas Kretschmann",
+            "Terence Stamp",
+            "Eddie Izzard",
+            "Kevin McNally",
+            "Christian Berkel",
+            "Jamie Parker",
+            "David Bamber",
+            "Tom Hollander",
+            "David Schofield",
+            "Kenneth Cranham",
+            "Halina Reijn",
+            "Werner Daehn",
+            "Harvey Friedman"
+          ],
+          "director" : "Bryan Singer",
+          "guionist" : "Christopher McQuarrie",
+          "score" : "7.1",
+          "summary" : "A dramatization of the July 20, 1944 assassination and political coup plot by desperate renegade German Army officers against Adolf Hitler during World War II.",
+          "sinopsis" : """Valkyrie opens with Colonel Stauffenberg in Tunisa, North Africa (in 1943), penning in a journal his thoughts about World War II, and how he feels Hitler is destroying Germany. Stauffenberg states he took an oath of allegiance to Hitler, but feels he owes more to Germany. He argues with a general about holding a key city in a futile effort against the British and American forces. The general agrees to have the 10th Panzer Division moved to a different location where they can be evacuated back to mainland Europe. Shortly thereafter, the camp is attacked by British aircraft and Stauffenberg is badly injured, losing one of his eyes, his right hand, and two fingers from his left hand.The next scene shows Hitler visiting a base camp on the Eastern European Front, and a nervous General Trescow looking on. As Hitler prepares to depart, Trescow and an associate hide a bomb in a wine case and give it to a man on Hitler's plane, but it fails to detonate in flight, and Trescow must return to headquarters to retrieve it. Once he arrives, he meets up with General Olbricht, a fellow conspirator. Trescow safely retrieves the wine case and he and Olbrict discuss a member of their secret committee who was recently arrested. Trescow recommends that Olbricht contact Colonel Stauffenberg as a replacement, which Olbricht does, and brings Stauffenberg to one of their clandestine meetings.In the meeting, Stauffenberg meets three of the most important figures in the resistance: Dr. Goerdeler, who will become Chancellor of Germany should the plot succeed; General Beck, who will lead the Armed Forces, and a man named Witzleben. After tempers flare over the issue of what to do in the aftermath of the plot, Stauffenberg agrees to help. At a later meeting, Stauffenberg suggests they utilize Operation Valkyrie, a plan that uses the Reserve Army to keep order among the Germany population should anything disrupt communications from Hitler, or should Hitler be killed. Stauffenberg rewrites the order to exclude the SS from taking control, which would leave the head of the Reserve Army, General Fromm, in charge of Germany. Reaching out to General Fromm, Stauffenberg and Olbricht are surprised at his rejection, but Fromm keeps quiet, choosing to neither support the dissenters nor report them to the authorities.Meanwhile, General Trescow is sent to the front lines. Stauffenberg is left in charge of the plan, and he, along with his assistant Lieutenant Haeften, take the order to the Berghof to be signed off by Hitler himself. Hitler, with his inner circle present, praises Stauffenberg's loss of appendages as the attitude necessary for his military, and states Stauffenberg is the ideal German officer. He then signs off on the bill, saying he's sure the changes are adequate.Back at command, Colonel Quirnheim shows the dissenters how to use pencil detonators, and Stauffenberg persuades General Fellgiebel, who controls communications at the Wolf's Lair, to help. Stauffenberg has been promoted to General Fromm's chief-of-staff, and thus has access to Hitler's military debriefings, so the plan goes as follows: Stauffenberg and Haeften will travel to Hitler's bunker, the Wolf's Lair, to attend a military meeting. Stauffenberg will ignite one of the pencil detonators and then have Fellgiebel call and pretend to be a general, pulling Stauffenberg out of the meeting while Haeften waits with a car. In theory, Stauffenberg and Haeften will have six minutes to drive before the bomb detonates, giving them time to return to the airfield and fly off before they can be suspected. The only condition the heads of the dissenters give, however, is that the both Himmler, head of the SS, and Hitler must be present for Stauffenberg to arm the bomb.Stauffenberg travels to the Wolf's Lair and has all preparations ready, but notices Himmler is not present at the meeting and calls the committee to ask if he may proceed anyway. He is ordered to stand down by the committee, unbeknownst to Olbricht, who mobilizes the Reserve Army anyway. As Stauffenberg safely extracts himself and the bomb from the bunker, the Reserve Army receives an order to stand down, believing they were just running a training drill. Olbricht and Stauffenberg are ordered to report to General Fromm, who is outraged that they would mobilize the army without his permission or knowledge. He warns them that if this happens again, he will arrest them both.Dr. Goerdeler has a warrant issued for his arrest by the SS and General Beck implores him to leave the country. Goerdeler, Stauffenberg's chief opponent on the committee, hastily leaves and Beck grants Stauffenberg full discretion on how to proceed with the attempt. Colonel Stauffenberg visits his home and tells his wife his plan, and that she and his children must leave, because of their suffering at the hands of the Nazis if he should fail. They do so and Stauffenberg makes his next attempt on Hitler's life as he attends another military briefing on July 20, 1944. Much to his surprise, the meeting has been moved from Hitler's bunker to an open window summer hut. The blast would have been most effective in the pressurized bunker, where the thick walls would deflect the pressure back to the bomb's origin, wiping out everyone in the bunker. Stauffenberg plans to proceed anyway but then notices Himmler is once again not present. He calls the committee to ask permission to continue and they say 'no', but Stauffenberg and Quirnheim privately agree to continue anyway, and Stauffenberg enters the summer hut. He and Haeften arm the bomb in a washroom and place it under the war room table, as Haeften gets the car. Fellgiebel gives Stauffenberg his distraction phone call and Stauffenberg hastily leaves the hut.In the war room, hearing news of the Germans' losses in Europe causes an enraged Hitler to bang his fist against the table, knocking Stauffenberg's briefcase with the armed bomb inside over. A correspondent at the table sees Stauffenberg's fallen bag and moves it behind a table leg opposite Hitler. As Stauffenberg walks to his car, the bomb detonates. Fellgiebel phones Quirnheim, but poor reception keeps Quirnheim from fully understanding what has happened, only hearing that the bomb has indeed detonated. Believing his job to be done, Fellgiebel orders them to shut off all communications. Olbricht implores Quirnheim to phone back and find out if Hitler really is dead, but the broken phone lines prevent that from happening. Olbricht refuses to mobilize the Reserve Army until he has received confirmation that Hitler has indeed been killed, and leaves for lunch. Quirnheim issues the mobilization order behind Olbricht's back, and the Reserve Army, led by Major Remer, mobilize in Berlin.Meanwhile, Stauffenberg, Haeften, and their driver quickly make their way out of the Wolf's Lair, and Stauffenberg cleverly tricks the soldiers into opening checkpoints for him. He makes it back to the airfield and quickly flies a plane back to the government district of Berlin.Much to Stauffenberg's shock, the delay caused by Olbricht issuing the order could substantially set the effort back, but they proceed with the plan as scheduled. They march to General Fromm's office and inform him that Hitler is dead, and that he can either join their cause or be arrested. Fromm calls the Wolf's Lair, whose communications has been restored, and hears that Hitler is, in fact, alive. Stauffenberg dismisses this and asks Fromm whose side he's on. Fromm attempts to arrest Stauffenberg and Olbricht, but is himself arrested instead. Stauffenberg, Olbricht, and Beck, as heads of the Reserve Army under Operation Valkyrie, give orders to arrest all the SS and Gestapo officers and seize control of Berlin. Major Remer follows these requests unaware that he is actually supporting the coup instead of fighting it as he believes. Eventually, he reaches the SS headquarters in France. Contradicting orders have been sent, one from the Wolf's Lair ordering the arrest of Stauffenberg, and one from Stauffenberg ordering the arrest of Minister Joseph Goebbels. Goebbels, shown slipping a cyanide pill in his mouth as he watches the Reserve Army approach, picks up a phone and asks to be connected. Remer walks in and states that the man is under arrest, but Goebbels gives Remer the phone. Remer hears Hitler's voice on the other line and is ordered by Hitler to release all the SS officers and capture those in charge of the conspiracy alive. Remer cancels the occupation of Berlin and marches towards Stauffenberg's location.Rumors are swirling that Hitler is alive, which Stauffenberg dismisses as SS propaganda. But gradually, Stauffenberg's associates in headquarters are either defecting or fleeing for their lives. As the Reserve Army reaches headquarters, Stauffenberg, Haeften, Quirnheim, Olbricht, and Beck attempt to leave. After a brief shoot-out with loyalist soldiers, Stauffenberg is wounded. He and all of the other conspirators are captured, and General Fromm is released from his cell. Wanting to appear innocent in order to save himself, Fromm orders the immediate arrest of the conspirators. In his office, he condemns Stauffenberg, Quirnheim, Olbricht, and Haeften to death, but allows Beck to kill himself with a pistol.At midnight, the remaining four are taken outside and executed by firing squad in the Bendlerblock. General Trescow, upon hearing of the plot's failure, is shown committing suicide on the front lines with a grenade. Goerdeler is shown executed by hanging, and eventually Stauffenberg is brought before the firing squad. Quirnheim and Olbricht have already been executed, and only Stauffenberg and Haeften remain. Stauffenberg is prepared to face his death when Haeften steps in front of him, taking the firing squad's first shots in a final act of loyalty to his superior and falling dead. The firing squad reloads, and aims at Stauffenberg, who screams "Long live sacred Germany!," before being shot.Witzleben is shown publicly denouncing Hitler at his trial and the film reveals he too was executed on September 4 later that same year. Then, the film states that General Fromm's hasty executions could not save himself and he too was executed on March 12, 1945 for not reporting the conspirators.The film concludes with a byline announcing Hitler's suicide in April 1945 nine months later and reveals that Stauffenberg's wife and children survived the war."""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "juW68YQBlDlURf2gyYD_",
+        "_score" : 11.274332,
+        "_source" : {
+          "title" : "Tensa espera",
+          "year" : "1993",
+          "genres" : [
+            "Romance",
+            "War",
+            "Drama"
+          ],
+          "actors" : [
+            "Russell Crowe",
+            "Christianne Hirt",
+            "Wanda Cannon",
+            "Scott Kraft",
+            "Peter Outerbridge",
+            "Sara McMillan",
+            "Bruce Boa",
+            "Katelynd Johnston",
+            "Tyler Woods",
+            "John Bekavac",
+            "Robert G. Slade",
+            "Kelly Proctor",
+            "Roxanne Boulianne",
+            "David Warburton",
+            "Ari Cohen",
+            "Glen Thompson",
+            "Guy Conan Stewart",
+            "Grant Dilworth"
+          ],
+          "director" : "Aaron Kim Johnston",
+          "guionist" : "Aaron Kim Johnston",
+          "score" : "6.0",
+          "summary" : "The story of airmen training in rural Manitoba in the summer of 1942 to go overseas and become bomber pilots in World War II, as well as the romantic entanglements which overcome them while they contemplate life and love in a world at war.",
+          "sinopsis" : ""
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "deW68YQBlDlURf2gyHgN",
+        "_score" : 11.258323,
+        "_source" : {
+          "title" : "Después de la guerra",
+          "year" : "1989",
+          "genres" : [
+            "Comedy",
+            "Drama",
+            "War"
+          ],
+          "actors" : [
+            "Richard Bohringer",
+            "Antoine Hubert",
+            "Julien Hubert",
+            "Martin Lamotte",
+            "Isabelle Sadoyan",
+            "Raoul Billerey",
+            "Jean-François Dérec",
+            "Jacques Mathou",
+            "Roger Miremont",
+            "Marie Pillet",
+            "Olivier Nembi",
+            "Judith Henry",
+            "Amélie Gonin",
+            "Manon Serve",
+            "Yveline Ailhaud",
+            "Michel Pilorgé",
+            "Brigitte Aubry",
+            "Jo Charrier"
+          ],
+          "director" : "Jean-Loup Hubert",
+          "guionist" : "Jean-Loup Hubert",
+          "score" : "6.9",
+          "summary" : "The film is set in France in August 1944 at the end of the war. German troops are in retreat as the allies are coming in. Two French boys run from home and on their journey they stumble upon a German soldier. Soon they become friends and together they head towards Lyon...",
+          "sinopsis" : "The conflict in question is World War II; even though hostilities have all but ceased, the Germans and the French are not precisely reconciled. German soldier Richard Bohlinger, absent without leave, is befriended by a couple of pre-teen boys (Antoine and Julien Hubert, sons of director Jean-Louis Hubert). Despite the fact that they seem to have found a lasting peace, the adult world doesn't see things the boys' way, and Bohlinger is put to death. Apres le Guerre is the second felicitous collaboration between director Hubert and veteran character-actor Richard Bohlinger; the first was the popular Le Grand Chemin.Written by Hal Erickson"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "_doc",
+        "_id" : "DuW68YQBlDlURf2g06uR",
+        "_score" : 11.198961,
+        "_source" : {
+          "title" : "El valle de la luz",
+          "year" : "2006",
+          "genres" : [
+            "Drama",
+            "Family",
+            "Romance"
+          ],
+          "actors" : [
+            "Chris Klein",
+            "Gretchen Mol",
+            "Zach Mills",
+            "Jay O. Sanders",
+            "Jeff Perry",
+            "Geoff Pierson",
+            "Stephen Tobolowsky",
+            "Robert Prosky",
+            "Angela Paton",
+            "Betty Moyer",
+            "Jackson Rathbone",
+            "Jamie Marsh",
+            "Kevin Chamberlin",
+            "William Joseph Elk III",
+            "Allen Nause",
+            "Michael Maize",
+            "Brent Hinkley",
+            "Raissa Fleming"
+          ],
+          "director" : "Brent Shields",
+          "guionist" : "Camille Thomasson",
+          "score" : "6.6",
+          "summary" : "Returning to USA after WWII, Noah goes wandering and angling. He comes to a small town and valley to catch a huge bass. He meets a cute widow and other good people there.",
+          "sinopsis" : """Made-for-TV drama about Noah (Chris Klein), a homeless World War II veteran who settles in a small North Carolina town and develops relationships with Eleanor (Gretchen Mol), a lonely war widow and a mute boy (Zach Mills) whose father has abandoned him. Noah is a fantastic fisherman and aims to make a living at catfishing. Eleanor allows Noah to stay on her small farm in the "fishing shack". They are drawn to each other through mutual loneliness and a longing to find purpose in life and create a new future for themselves.Noah is haunted by his experiences in the war and by his quest to catch a mythically huge bass that has become a metaphor for his inner struggle to find himself. He once caught the gigantic bass, but released it as he could not bring himself to kill it. He finds himself falling in love with Eleanor, but cannot pursue the relationship until his inner turmoil is resolved. In the end, the mythical bass remains free and Noah and Eleanor find themselves and each other."""
+        }
+      }
+    ]
+  }
+}

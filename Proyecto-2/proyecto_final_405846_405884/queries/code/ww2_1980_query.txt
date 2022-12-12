@@ -1,0 +1,21 @@
+GET movies/_search
+{
+  "size": 50,
+  "query":{
+    "bool":{
+      "must": {
+        "multi_match": {
+          "query": "world war ii",
+          "fields": ["summary", "sinopsis"]
+        }
+      },
+      "filter":{
+        "range":{
+          "year":{
+            "gte":1980
+          }
+        }
+      }
+    }
+  }
+}
